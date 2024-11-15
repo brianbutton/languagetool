@@ -1,6 +1,5 @@
 package org.languagetool.language;
 
-import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.languagetool.*;
 import org.languagetool.rules.*;
@@ -52,7 +51,12 @@ public class Zulu extends Language {
 
   @Override
   public Contributor[] getMaintainers() {
-    return new Contributor[] { Contributors.BRIAN_BUTTON };
+    return new Contributor[] { new Contributor("Brian Button") };
+  }
+
+  @Override
+  public LanguageMaintainedState getMaintainedState() {
+    return LanguageMaintainedState.ActivelyMaintained;
   }
 
   /*@NotNull
@@ -85,10 +89,7 @@ public class Zulu extends Language {
     );
   }
 
-  @Override
-  public LanguageMaintainedState getMaintainedState() {
-    return LanguageMaintainedState.ActivelyMaintained;
-  }
+
 
   @Nullable
   @Override
