@@ -789,6 +789,11 @@
             </dependency>
             <dependency>
                 <groupId>org.languagetool</groupId>
+                <artifactId>language-zu</artifactId>
+                <version>${revision}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.languagetool</groupId>
                 <artifactId>language-el</artifactId>
                 <version>${revision}</version>
             </dependency>
