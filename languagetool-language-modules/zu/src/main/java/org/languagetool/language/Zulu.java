@@ -44,12 +44,6 @@ public class Zulu extends Language {
   }
 
   @Override
-  public String getCommonWordsPath() {
-    // TODO: provide common words file
-    return null;
-  }
-
-  @Override
   public Contributor[] getMaintainers() {
     return new Contributor[] { new Contributor("Brian Button") };
   }
@@ -73,19 +67,28 @@ public class Zulu extends Language {
   @Override
   public List<Rule> getRelevantRules(ResourceBundle messages, UserConfig userConfig, Language motherTongue, List<Language> altLanguages) {
     return Arrays.asList(
-            new CommaWhitespaceRule(messages,
-              Example.wrong("Sibe nekhofi<marker> ,</marker> ushizi namakhukhi namagilebhisi."),
-              Example.fixed("Sibe nekhofi<marker>,</marker> ushizi namakhukhi namagilebhisi.")),
-            new DoublePunctuationRule(messages),
-            new GenericUnpairedBracketsRule(messages),
-            new HunspellRule(messages, this, userConfig, altLanguages),
-            new UppercaseSentenceStartRule(messages, this,
-              Example.wrong("Le ndlu indala. <marker>yakhiwa</marker> ngo-1950."),
-              Example.fixed("Le ndlu indala. <marker>Yakhiwa</marker> ngo-1950."),
-              Tools.getUrl("https://languagetool.org/insights/post/spelling-capital-letters/")),
-            new WordRepeatRule(messages, this),
-            new MultipleWhitespaceRule(messages, this),
-            new SentenceWhitespaceRule(messages)
+      new CommaWhitespaceRule(messages,
+        Example.wrong("Sibe nekhofi<marker> ,</marker> ushizi namakhukhi namagilebhisi."),
+        Example.fixed("Sibe nekhofi<marker>,</marker> ushizi namakhukhi namagilebhisi.")),
+      new DoublePunctuationRule(messages),
+      new UppercaseSentenceStartRule(messages, this,
+        Example.wrong("Le ndlu indala. <marker>yakhiwa</marker> ngo-1950."),
+        Example.fixed("Le ndlu indala. <marker>Yakhiwa</marker> ngo-1950."),
+        Tools.getUrl("https://languagetool.org/insights/post/spelling-capital-letters/")),
+      new MultipleWhitespaceRule(messages, this),
+      new SentenceWhitespaceRule(messages),
+      new WhiteSpaceBeforeParagraphEnd(messages, this),
+      new WhiteSpaceAtBeginOfParagraph(messages),
+      new EmptyLineRule(messages, this),
+      new LongSentenceRule(messages, userConfig, 40),
+      new LongParagraphRule(messages, this, userConfig),
+      new ParagraphRepeatBeginningRule(messages, this),
+      new PunctuationMarkAtParagraphEnd(messages, this),
+      new PunctuationMarkAtParagraphEnd2(messages, this),
+
+      new GenericUnpairedBracketsRule(messages),
+      new WordRepeatRule(messages, this),
+      new HunspellRule(messages, this, userConfig, altLanguages)
     );
   }
 
