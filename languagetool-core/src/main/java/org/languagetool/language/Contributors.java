@@ -29,6 +29,4 @@ public final class Contributors {
   public static final Contributor MARCIN_MILKOWSKI = new Contributor("Marcin Miłkowski", "http://marcinmilkowski.pl");
   public static final Contributor DANIEL_NABER = new Contributor("Daniel Naber", "http://www.danielnaber.de");
   public static final Contributor DOMINIQUE_PELLE = new Contributor("Dominique Pellé", "http://dominiko.livejournal.com/tag/lingvoilo");
-  public static final Contributor BRIAN_BUTTON = new Contributor("Brian Button", "http://dominiko.livejournal.com/tag/lingvoilo");
-
 }
