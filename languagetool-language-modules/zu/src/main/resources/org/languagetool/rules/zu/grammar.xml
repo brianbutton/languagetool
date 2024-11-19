@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../../../../../../../languagetool-core/src/main/resources/org/languagetool/rules/print.xsl" ?>
+<?xml-stylesheet type="text/css" href="../../../../../../../../../languagetool-core/src/main/resources/org/languagetool/rules/rules.css"
+        title="Easy editing stylesheet" ?>
+
+<!DOCTYPE rules [
+        ]>
+<rules lang="zu" xsi:noNamespaceSchemaLocation="../../../../../../../../../languagetool-core/src/main/resources/org/languagetool/rules/rules.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <category id="TYPOS" name="Possible Typo" type="misspelling">
+        <rule id="EXAMPLE_RULE" name="My example rule">
+            <pattern>
+                <token>foo</token>
+                <token>bar</token>
+            </pattern>
+            <message>Did you mean <suggestion>bicycle</suggestion>?</message>
+            <example correction="bicycle">My <marker>foo bar</marker> is broken.</example>
+            <example>My car is broken.</example>
+        </rule>
+    </category>
+</rules>
