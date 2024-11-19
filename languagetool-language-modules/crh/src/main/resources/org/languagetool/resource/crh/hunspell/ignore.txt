@@ -1,1 +1,1 @@
-# words to be ignored by the spellchecker (auto-generated)
+# words to be ignored by the spellchecker
