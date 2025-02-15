@@ -3181,6 +3181,28 @@ To ignore a remote rule match, set the <marker> so that it exactly covers the te
         <!-- ====================================================================== -->
         <!-- QuillBot Antipatterns -->
         <!-- ====================================================================== -->
+        <rulegroup id="QB_EN_OTHER" name="">
+            <rule>
+                <pattern>
+                    <marker>
+                        <token />
+                    </marker>
+                    <token>because</token>
+                    <token min="2" max="15" />
+                    <token postag="SENT_END" />
+                </pattern>
+                <example correction="">A particularly noteworthy case is the electric field between two concentric <marker>cylinders</marker> because such an arrangement is commonly found in devices for aerodynamic DMA.</example>
+            </rule>
+            <rule>
+                <pattern>
+                    <marker>
+                        <token regexp="yes">.*[a-z].*</token>
+                        <token regexp="yes" spacebefore="no" postag="SENT_END">:</token>
+                    </marker>
+                </pattern>
+                <example correction="">READ WHAT NUTRITIONISTS AND SCIENTISTS SAY ABOUT MINDFUL <marker>SNACKING:</marker></example>
+            </rule>
+        </rulegroup>
         <rulegroup id="QB_EN_OTHER_ERROR_IDS_000051" name="">
             <rule>
                 <pattern>

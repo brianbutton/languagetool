@@ -4,7 +4,6 @@
 Portuguese, Polish, Dutch, and [more than 20 other languages](https://languagetool.org/languages/).
 It finds many errors that a simple spell checker cannot detect.
 
-* **[Jobs at LanguageTool](https://languagetool.org/careers)**
 * [LanguageTool Forum](https://forum.languagetool.org)
 * [How to run your own LanguageTool server](https://dev.languagetool.org/http-server)
 * [HTTP API documentation](https://languagetool.org/http-api/swagger-ui/#!/default/post_check)
@@ -69,7 +68,7 @@ Commands:
 
 ## Alternate way to build from source
 
-Before start: you will need to clone from GitHub and install Java 8 and Apache Maven.
+Before start: you will need to clone from GitHub and install Java 17 and Apache Maven.
 
 Warning: a complete clone requires downloading more than 500 MB and needs more than 1500 MB on disk.
 This can be reduced if you only need the last few revisions of the master branch

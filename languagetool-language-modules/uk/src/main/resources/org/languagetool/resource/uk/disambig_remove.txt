@@ -42,6 +42,7 @@
 вагонів вагоніти verb:imperf:past:m
 вагони вагоніти verb:imperf:impr:s:2
 вантажу вантажити verb:imperf:pres:s:1
+Ватутіне Ватутін noun:anim:m:v_kly:prop:lname
 вдова вдовий adj:f:.*
 вереснем вереснути verb:perf:futr:p:1:subst
 веселим веселити verb:imperf:pres:p:1:subst
@@ -172,6 +173,7 @@
 завершать завершати verb:imperf:inf:short:arch
 зависне зависний adj:n.*
 заводним заводнити verb:perf:futr:p:1:subst
+загинула загинулий adj:f:.*
 заграв заграва noun:inanim:p:v_rod
 загрози загрозити verb:perf:impr:s:2
 закривав закривавити verb:perf:impr:s:2
@@ -301,6 +303,7 @@
 морю морити verb:imperf:pres:s:1
 мости мостити verb:imperf:impr:s:2
 мужній мужніти verb:imperf:impr:s:2
+мусів мус noun:inanim:p:v_rod
 мутній мутніти verb:imperf:impr:s:2
 м'якшим м'якшити verb:imperf:pres:p:1:subst
 м'якшу м'якшити verb:imperf:pres:s:1
@@ -351,6 +354,7 @@
 перевтоми перевтомити verb:perf:impr:s:2
 перегляди переглядіти verb:perf:impr:s:2:xp2
 перегною перегноїти verb:perf:futr:s:1
+переговори переговорити verb:perf:impr:s:2
 переїзди переїздити verb:imperf:impr:s:2
 переломи переломити verb:perf:impr:s:2
 перепади перепасти verb:perf:impr:s:2
@@ -401,6 +405,7 @@
 порожній порожніти verb:imperf:impr:s:2
 порив порити verb:perf:past:m
 поринула поринулий adj:f:.*
+порівняно порівняти verb:perf:impers
 поруч поруччя noun:inanim:p:v_rod
 посадовим посадовити verb:perf:futr:p:1:subst
 поставці поставець noun:inanim.*
@@ -564,6 +569,7 @@
 холостим холостити verb:imperf:pres:p:1:subst
 хорошій хорошіти verb:imperf:impr:s:2
 ходулі ходулі verb:imperf:inf:dimin
+худа худати verb:imperf:pres:s:3:short:bad
 цікавим цікавити verb:imperf:pres:p:1:subst
 цілим цілити verb:imperf:pres:p:1:subst:xp[12]
 цілім цілити verb:imperf:impr:p:1:xp2

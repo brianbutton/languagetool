@@ -1,5 +1,84 @@
 #Catalan multiwords file used for chunking
 #separatorRegExp=[\t;]
+espècie paraigua;NCFS000
+espècies paraigua;NCFP000
+Xavier Godàs;NPMSSP0
+mar de Ross;NPCSG00
+arc de la Défense;NPMSG00
+Regne Unit;NPMSG00
+ACV Tirant lo Blanc;NPFSO00
+Târgu Mureș;NPCSG00
+bonus-malus;AQ0CN0
+Mont McKinley;NPMSG00
+cagada pastoret;I
+Pablo Larraz;NPMSSP0
+Bernat Dedéu;NPMSSP0
+boy scout;NCMS000
+boy scouts;NCMP000
+Boy Scout;NCMS000
+Boy Scouts;NCMP000
+Carme Elias;NPFSSP0
+tech bro;NCMS000
+tech bros;NCMP000
+Carles Salvador;NPMSSP0
+Alto de las Barracas;NPMSG00
+Bernat Dedéu;NPMSSP0
+Mohammed bin Salman;NPMSSP0
+coop.;NCFN00
+Costa Blanca;NPFSG00
+Costa Brava;NPFSG00
+Costa d'Ivori;NPFSG00
+Park Chung-hee;NPMSSP0
+Benet de Núrsia;NPMSSP0
+Hilari Raguer;NPMSSP0
+Mohammed al-Bashir;NPMSSP0
+Abu Mohammad al-Julani;NPMSSP0
+Al-Julani;NPMSSP0
+Montserrat Dameson;NPFSSP0
+Pérez de los Cobos;NPCNSP0
+Xavier Grasset;NPMSSP0
+Ludovic Morlot;NPMSSP0
+Hayat Tahrir al-Sham;NPCNO00
+Tahrir al-Sham;NPCNO00
+Front Al-Nusra;NPMSO00
+Mayor Oreja;NPCNSP0
+Jaime Mayor Oreja;NPMSSP0
+serralada Neovolcànica;NPFSG00
+Víctor de Aldama;NPMSSP0
+De Aldama;NPCNSP0
+Esther Peña;NPFSSP0
+Juan Carlos Peinado;NPMSSP0
+Grigory Sokolov;NPMSSP0
+Mikel Zabalza;NPMSSP0
+Emma Zafón;NPFSSP0
+Iulianna Avdéieva;NPFSSP0
+element identitat;NCMS000
+El Ventorro;NPMSO00
+José Ramón Prado Bugallo;NPMSSP0
+Francisco José Gan Pampols;NPMSSP0
+Francisco José Gan;NPMSSP0
+Gan Pampols;NPCNSP0
+Marián Cano;NPFSSP0
+Míriam Cano;NPFSSP0
+Emili Rosales;NPMSSP0
+Stanisław Jerzy Lec;NPMSSP0
+legacy media;NCMP000
+Pafnuti Txebixov;NPMSSP0
+Vicent Baydal;NPMSSP0
+Euskal Telebista;NPFSO00
+Aleksandr Bórtnikov;NPMSSP0
+Esther Giménez-Salinas;NPFSSP0
+Marinela Garcia;NPFSSP0
+carrer de Ferlandina;NPMSG00
+José Joaquín Ripoll;NPMSSP0
+Joan Llinares;NPMSSP0
+Emilio Argüeso;NPMSSP0
+Salomé Pradas;NPFSSP0
+Ongi Etorri;NPMSO00
+rambla de Poio;NPFSG00
+barranc de Poio;NPMSG00
+Vicent Olmos;NPMSSP0
+Ausiàs March;NPMSSP0
 Vall dels Alcalans;NPFSG00
 Joana d'Arc;NPFSSP0
 Círculo Ecuestre;NPMSO00
@@ -1617,6 +1696,8 @@ Salwa El Gharbi;NPFSSP0
 Xavier Eritja;NPMSSP0
 José María Espejo-Saavedra;NPMSSP0
 Albano-Dante Fachín;NPMSSP0
+Albano-Dante Fachín Pozzi;NPMSSP0
+Fachín Pozzi;NPCNSP0
 Jaume Dulsat;NPMSSP0
 Pilar Fernández Bozal;NPFSSP0
 Antoni Fernández Teixidó;NPMSSP0
@@ -3997,7 +4078,8 @@ Phillip Island	NPCNG00
 Phnom Penh	NPCNG00
 Picos de Europa	NPMPG00
 Pico della Mirandola	NPCNSP0
-Ploski Tolbàtxik	NPCNG00
+Ploski Tolbàtxik;NPCNG00
+Ostri Tolbàtxik;NPCNG00
 Port Louis	NPCSG00
 Port Moresby	NPCSG00
 Port Saïd	NPCSG00
@@ -4087,7 +4169,6 @@ Torres Torres	NPCSG00
 Trinity College	NPMSO00
 Tristão da Cunha	NPCNG00
 Tuxtla Gutiérrez	NPCNG00
-Tîrgu Mures	NPCNG00
 Tony Blair	NPMSSP0
 Ulan Bator	NPCNG00
 Umm al-Qaywayn	NPCNG00
@@ -4653,7 +4734,7 @@ Drag Queen	NCFS000
 Drag Queens	NCFP000
 Drag King	NCMS000
 Drag Kings	NCMP000
-Mona Lisa	NPFSSP0
+Monna Lisa;NPFSSP0
 en absolut	LOC_ADV
 en absència d'	LOC_PREP
 en absència de	LOC_PREP
@@ -5077,17 +5158,11 @@ tour operator	NCMS000
 tour operators	NCMP000
 tractament vip	NCMS000
 tutti quanti	NCMP000
-tutti frutti	NCMS000
+tutti frutti	NCMN000
 ultima ratio	NCFS000
 ultra mesura	LOC_ADV
 ultra vires	LOC_ADV
 un per un	LOC_ADV
-un poc	LOC_ADV
-un poquet	LOC_ADV
-un pèl	LOC_ADV
-un xic	LOC_ADV
-una mica	LOC_ADV
-una miqueta	LOC_ADV
 una per una	LOC_ADV
 una vegada per sempre	LOC_ADV
 una vegada per totes	LOC_ADV
@@ -7022,7 +7097,7 @@ scio me nihil scire;_Latin_
 scire quod sciendum;_Latin_
 scribimus indocti doctique poemata passim;_Latin_
 scuto amoris divini;_Latin_
-seculo seculorum;_Latin_
+#seculo seculorum;_Latin_
 secundum quid et simpliciter;_Latin_
 sed ipse spiritus postulat pro nobis, gemitibus inenarrabilibus;_Latin_
 sed terrae graviora manent;_Latin_

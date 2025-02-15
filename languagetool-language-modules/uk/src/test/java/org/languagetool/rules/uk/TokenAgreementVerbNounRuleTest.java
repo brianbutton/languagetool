@@ -115,6 +115,8 @@ public class TokenAgreementVerbNounRuleTest extends AbstractRuleTest {
     // complicated case with понад
 //    assertHasError("зайнявся понад двісті справ");
     assertEmptyMatch("сидять понад міру");
+    assertEmptyMatch("стало відомо точну дату");
+    assertEmptyMatch("стало видно тільки оранжеві щоки");
 //    assertEmptyMatch("тягнуться понад воду");
 //    assertEmptyMatch("прибуло понад мільйон");
     
@@ -158,6 +160,8 @@ public class TokenAgreementVerbNounRuleTest extends AbstractRuleTest {
 
     assertEmptyMatch("розподілятиметься пропорційно вкладеній праці");
     assertEmptyMatch("зростатимуть прямо пропорційно україноненависництву");
+    
+    assertEmptyMatch("рухатися далі власної історії");
     
     // impr + oru
     assertEmptyMatch("запропоновано урядом");

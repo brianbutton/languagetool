@@ -118,7 +118,7 @@
         <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ss Z</maven.build.timestamp.format>
         <!--Maven-Plugin-Versions -->
         <!-- NOTE: don't update without testing OpenOffice, 3.0.2 caused "Got no data stream!" after add-on installation -->
-        <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
+        <maven-jar-plugin.version>2.6</maven-jar-plugin.version>
         <maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
         <maven-deploy-plugin.version>3.0.0-M1</maven-deploy-plugin.version>
         <maven-enforcer-plugin.version>3.0.0-M3</maven-enforcer-plugin.version>
@@ -158,6 +158,7 @@
         <!-- #### End Updated Block -->
 
         <at.favre.lib.bcrypt.version>0.10.2</at.favre.lib.bcrypt.version>
+        <caffeine.version>3.2.0</caffeine.version>
         <ch.qos.logback.version>1.5.8</ch.qos.logback.version>
 
         <com.carrotsearch.hppc.version>0.8.2</com.carrotsearch.hppc.version>
@@ -184,7 +185,7 @@
         <io.micrometer.micrometer-prometheus.version>1.7.12</io.micrometer.micrometer-prometheus.version>
         <io.opentelemetry.version>1.42.1</io.opentelemetry.version>
         <io.opentelemetry.semconv.version>1.30.1-alpha</io.opentelemetry.semconv.version>
-        <io.lettuce.version>6.3.1.RELEASE</io.lettuce.version>
+        <io.lettuce.version>6.5.1.RELEASE</io.lettuce.version>
 
         <javax.activation.javax.activation-api.version>1.2.0</javax.activation.javax.activation-api.version>
         <javax.annotation.javax.annotation-api.version>1.3.2</javax.annotation.javax.annotation-api.version>
@@ -225,7 +226,7 @@
         <languagetool-ga-dicts.version>0.02</languagetool-ga-dicts.version>
         <portuguese-pos-dict.version>1.2.0</portuguese-pos-dict.version>
         <dutch-pos-dict.version>0.1</dutch-pos-dict.version>
-        <english-pos-dict.version>0.3</english-pos-dict.version>
+        <english-pos-dict.version>0.6</english-pos-dict.version>
         <belarusian-pos-dict.version>1.0.2</belarusian-pos-dict.version>
         <tech.units.indriya.version>1.3</tech.units.indriya.version>
         <ecs-logging-java.version>1.3.2</ecs-logging-java.version>
@@ -263,6 +264,11 @@
                 <groupId>co.elastic.logging</groupId>
                 <artifactId>logback-ecs-encoder</artifactId>
                 <version>${ecs-logging-java.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.ben-manes.caffeine</groupId>
+                <artifactId>caffeine</artifactId>
+                <version>${caffeine.version}</version>
             </dependency>
             <dependency>
                 <!-- needed for building the Morfologik dict at runtime (for ignore.txt) -->

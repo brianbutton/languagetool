@@ -45,9 +45,31 @@ import static java.util.regex.Pattern.compile;
 
 public class Catalan extends Language {
 
-  private static final Pattern PATTERN_1 = compile("(\\b[lmnstdLMNSTD])'");
-  private static final Pattern PATTERN_2 = compile("(\\b[lmnstdLMNSTD])’\"");
-  private static final Pattern PATTERN_3 = compile("(\\b[lmnstdLMNSTD])’'");
+  private static final String LANGUAGE_SHORT_CODE = "ca-ES";
+
+  private static volatile Throwable instantiationTrace;
+
+  public Catalan() {
+    Throwable trace = instantiationTrace;
+    if (trace != null) {
+      throw new RuntimeException("Language was already instantiated, see the cause stacktrace below.", trace);
+    }
+    instantiationTrace = new Throwable();
+  }
+
+  /**
+   * This is a fake constructor overload for the subclasses. Public constructors can only be used by the LT itself.
+   */
+  protected Catalan(boolean fakeValue) {
+  }
+
+  public static @NotNull Catalan getInstance() {
+    Language language = Objects.requireNonNull(Languages.getLanguageForShortCode(LANGUAGE_SHORT_CODE));
+    if (language instanceof Catalan catalan) {
+      return catalan;
+    }
+    throw new RuntimeException("Catalan language expected, got " + language);
+  }
 
   @Override
   public String getName() {
@@ -138,7 +160,7 @@ public class Catalan extends Language {
 
   @Override
   public Tokenizer createDefaultWordTokenizer() {
-    return new CatalanWordTokenizer();
+    return CatalanWordTokenizer.INSTANCE;
   }
   
   /** @since 5.1 */
@@ -170,7 +192,11 @@ public class Catalan extends Language {
   public boolean isAdvancedTypographyEnabled() {
     return true;
   }
-  
+
+  private static final Pattern PATTERN_1 = compile("(\\b[lmnstdLMNSTD])'");
+  private static final Pattern PATTERN_2 = compile("(\\b[lmnstdLMNSTD])’\"");
+  private static final Pattern PATTERN_3 = compile("(\\b[lmnstdLMNSTD])’'");
+
   @Override
   public String toAdvancedTypography (String input) {
     String output = super.toAdvancedTypography(input);
@@ -275,6 +301,7 @@ public class Catalan extends Language {
       case "CA_WORD_COHERENCY": return -10; // lesser than EVITA_DEMOSTRATIUS_ESTE
       case "CA_WORD_COHERENCY_VALENCIA": return -10; // lesser than EVITA_DEMOSTRATIUS_ESTE
     // TA_DEMOSTRATIUS_ESTE
+      case "QUAN_PREPOSICIO": return -10; // lesser than QUANT_MES_MES
       case "ARTICLE_TOPONIM_MIN": return -10; // lesser than CONTRACCIONS, CONCORDANCES_DET_NOM 
       case "PEL_QUE": return -10; // lesser than PEL_QUE_FA
       case "COMMA_LOCUTION": return -10;

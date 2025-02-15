@@ -1,4 +1,18 @@
 #separatorRegExp=[\t;]
+mar de Ross;NPMSG00
+Arco de La Défense;NPMSG00
+bonus-malus;AQ0CN0
+Monte McKinley;NPMSG00
+tech bro;NCMS000
+tech bros;NCMP000
+Mohammed bin Salmán;NPMSSP0
+tutti frutti;NCMS000
+tutti fruttis;NCMP000
+full contact;NCMS000
+Notre Dame;NPCSG00
+Euskal Telebista;NPFSO00
+Alexandr Bórtnikov;NPMSSP0
+Ongi Etorri;NPMSO00
 Saint-Vincent;NPMSG00
 Saint Vincent;NPMSG00
 San Vicente y las Granadinas;NPMSG00
@@ -464,6 +478,7 @@ Jesús Ángel;NPMSSP0
 Juan Ángel;NPMSSP0
 Andréi Kolmogórov;NPMSSP0
 Bashar al-Ásad;NPMSSP0
+Háfez al-Ásad;NPMSSP0
 Freie Wähler;NPMPO00
 Die Linke;NPFSO00
 fondo buitre;NPMS000
@@ -8895,6 +8910,7 @@ osos panda	NCMP000
 AA. VV.	NCMP000
 VV. AA.	NCMP000
 CC. AA.	NCFP000
+C. A.	NCFS000
 Western Electric	NPFSO00
 Western Union	NPFSO00
 Pink Floyd	NPMNO00
@@ -9033,6 +9049,7 @@ Drag Queens	NCFP000
 Drag King	NCMS000
 Drag Kings	NCMP000
 Mona Lisa	NPFSSP0
+Monna Lisa	NPFSSP0
 al dente	LOC_ADJ
 después de Cristo	LOC_ADV
 antes de Cristo	LOC_ADV
@@ -9996,7 +10013,6 @@ Buenos Aires	NPCSG00
 Burkina Faso	NPCSG00
 bóbilis bóbilis	LOC_ADV
 c.	Y
-C. A.	Y
 c. c.	Y
 C. C.	Y
 c. e.	Y

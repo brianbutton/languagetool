@@ -121,6 +121,8 @@ public abstract class AbstractEnglishSpellerRule extends MorfologikSpellerRule {
     "horseshit",
     "kraut",
     "krauts",
+    "blackie",
+    "blackies",
     "motherfucker",
     "motherfuckers",
     "motherfucking",
@@ -211,6 +213,11 @@ public abstract class AbstractEnglishSpellerRule extends MorfologikSpellerRule {
   private static final Pattern UX = compile("ux");
   private static final Pattern LANGUAGETOOL = compile("[Ll]anguagetool");
   private static final Pattern UNDETERMINISTIC = compile("undeterministic");
+  private static final Pattern QUILLBOT_POS = compile("QuillBots");
+  private static final Pattern QUILLBOT1 = compile("[Qq]uill?bot");
+  private static final Pattern QUILLBOT1_POS = compile("[Qq]uill?bots");
+  private static final Pattern QUILLBOT2 = compile("QuilBot");
+  private static final Pattern QUILLBOT2_POS = compile("QuilBots");
 
   private final BeoLingusTranslator translator;
 
@@ -869,6 +876,10 @@ public abstract class AbstractEnglishSpellerRule extends MorfologikSpellerRule {
     s.put("tuffest", Arrays.asList("toughest"));
     s.put("Tuffer", Arrays.asList("Tougher"));
     s.put("tuffer", Arrays.asList("tougher"));
+    s.put("devast", Arrays.asList("devastate"));
+    s.put("devasts", Arrays.asList("devastates"));
+    s.put("devasted", Arrays.asList("devastated"));
+    s.put("devasting", Arrays.asList("devastating"));
     s.put("Fundrace", Arrays.asList("Fundraise"));
     s.put("fundrace", Arrays.asList("fundraise"));
     s.put("Fundraces", Arrays.asList("Fundraises"));
@@ -1215,6 +1226,7 @@ public abstract class AbstractEnglishSpellerRule extends MorfologikSpellerRule {
     s.put("echos", Arrays.asList("echoes"));
     s.put("elfs", Arrays.asList("elves"));
     s.put("ellipsises", Arrays.asList("ellipses"));
+    s.put("ir", Arrays.asList("it"));
     s.put("embargos", Arrays.asList("embargoes"));
     s.put("erratums", Arrays.asList("errata"));
     s.put("firemans", Arrays.asList("firemen"));
@@ -1545,6 +1557,14 @@ public abstract class AbstractEnglishSpellerRule extends MorfologikSpellerRule {
     if (MACBOOK.matcher(word).matches()) return topMatch(StringUtils.replaceOnce(word, "acbook", "acBook"));
     if (LIKELYHOOD.matcher(word).matches()) return topMatch(StringUtils.replaceOnce(word, "ikelyhood", "ikelihood"));
     if (UNECESSARY.matcher(word).matches()) return topMatch(StringUtils.replaceOnce(word, "necessary", "nnecessary"));
+    if (QUILLBOT1.matcher(word).matches() || QUILLBOT2.matcher(word).matches()) return topMatch("QuillBot");
+    if (QUILLBOT_POS.matcher(word).matches() || QUILLBOT1_POS.matcher(word).matches() ||
+      QUILLBOT2_POS.matcher(word).matches()) {
+      List<SuggestedReplacement> l = new ArrayList<>();
+      l.add(new SuggestedReplacement("QuillBot's"));
+      l.add(new SuggestedReplacement("QuillBot"));
+      return l;
+    }
     if (TV.matcher(word).matches()) {
       List<SuggestedReplacement> l = new ArrayList<>();
       l.add(new SuggestedReplacement("TV"));

@@ -62,12 +62,13 @@ USA
 <!ENTITY pronomes_informais_pt_pt "contigo|t[ao]s?|teus?|tuas?|t[uie]|vocês?">
 <!ENTITY pronomes_possessivos_pt_pt "del[ae]s?|meus?|noss[ao]s?|seus?|suas?|teus?|tuas?|voss[ao]s?">
 
-
-<!ENTITY gerundio_verbos "acabar|acontecer|afundar|ajudar|aumentar|criar|degradar|diminuir|disparar|elaborar|fazer|fluir|instalar|ir|lesar|quebrar|ser|travar|vir">
-<!ENTITY gerundio_excecoes "abandonando|acelerando|acrescentando|acumulando|adicionando|alimentando|alterando|alternando|aperfeiçoando|apresentando|armazenando|assimilando|atribuindo|aumentando|baixando|bebendo|beneficiando|caindo|causando|chegando|comendo|conquistando|conseguindo|consolidando|consumindo|convergindo|crescendo|criando|decrescendo|desaparecendo|emergindo|empregando|envolvendo|fazendo|ficando|ganhando|habituando|havendo|indo|jogando|levantando|libertando|matando|morrendo|mudando|originando|partindo|passando|perdendo|permitindo|pressionando|procurando|progredindo|propagando|publicando|querendo|recorrendo|reduzindo|repetindo|revendo|sabendo|safando|saindo|sendo|subindo|surgindo|usando">
+<!ENTITY gerundio_verbos_auxiliares "andar|continuar|estar|ficar|haver|ir|ser|ter|vir">
+<!ENTITY gerundio_verbos_nao_auxiliares "acabar|acontecer|afundar|ajudar|aumentar|criar|degradar|diminuir|disparar|elaborar|fazer|fluir|instalar|lesar|quebrar|travar">
+<!ENTITY gerundio_excecoes_verbos_auxiliares "abaixando|abrindo|acendendo|achando|aconselhando|acordando|afundando|amando|apagando|aprendendo|aquecendo|arrefecendo|assando|bebendo|berrando|bocejando|bordando|brincando|cantando|carregando|causando|chegando|choramingando|chorando|começando|comendo|compartilhando|comprando|conduzindo|conectando|congelando|consertando|construindo|convergindo|correndo|cortando|costurando|cozinhando|criando|criticando|dançando|degustando|deixando|derretendo|descarregando|descendo|descobrindo|desconectando|desenhando|deslizando|destruindo|digerindo|digitando|dirigindo|dizendo|dormindo|editando|elogiando|empurrando|engolindo|ensinando|entendendo|entrando|escalando|escondendo|escorregando|escrevendo|escurecendo|esperando|espirrando|esquecendo|explorando|falando|fazendo|fechando|fervendo|filmando|flutuando|fritando|ganhando|gostando|gravando|grelhando|gritando|guiando|iluminando|inventando|jogando|lavando|lembrando|levantando|mastigando|mergulhando|morrendo|nadando|navegando|odiando|olhando|orientando|ouvindo|parando|passando|pensando|perdendo|perguntando|pilotando|pintando|provando|publicando|pulando|puxando|querendo|rastejando|reclamando|refogando|reparando|resmungando|respirando|respondendo|rindo|sabendo|saindo|saltando|segurando|sentindo|servindo|sofrendo|sorrindo|subindo|suspirando|sussurrando|teclando|temperando|terminando|tornando|tossindo|trabalhando|tropeçando|vendendo|vendo|viajando|vivendo|voando|voltando">
+<!ENTITY gerundio_excecoes_verbos_nao_auxiliares "abaixando|abrindo|acabando|acendendo|achando|aconselhando|acontecendo|acordando|afundando|ajudando|amando|apagando|aprendendo|aquecendo|arrefecendo|assando|aumentando|bebendo|berrando|bocejando|bordando|brincando|cantando|carregando|chegando|choramingando|chorando|começando|comendo|compartilhando|comprando|conduzindo|conectando|congelando|consertando|considerando|construindo|correndo|cortando|costurando|cozinhando|criando|criticando|dançando|degradando|degustando|deixando|derretendo|descarregando|descendo|descobrindo|desconectando|desenhando|deslizando|destruindo|digerindo|digitando|diminuindo|dirigindo|disparando|dizendo|dormindo|editando|elaborando|elogiando|empurrando|engolindo|ensinando|entendendo|entrando|escalando|escondendo|escorregando|escrevendo|escurecendo|esperando|espirrando|esquecendo|explorando|falando|fazendo|fechando|fervendo|filmando|fluindo|flutuando|fritando|ganhando|gostando|gravando|grelhando|gritando|guiando|iluminando|instalando|inventando|jogando|lavando|lembrando|lesando|levantando|mastigando|mergulhando|morrendo|nadando|navegando|odiando|olhando|orientando|ouvindo|parando|passando|pensando|perdendo|perguntando|pilotando|pintando|provando|publicando|pulando|puxando|quebrando|querendo|rastejando|reclamando|refogando|reforçando|reparando|resmungando|respirando|respondendo|rindo|sabendo|saindo|saltando|segurando|sendo|sentindo|servindo|sofrendo|sorrindo|subindo|suspirando|sussurrando|teclando|temperando|terminando|tornando|tossindo|trabalhando|travando|tropeçando|usando|vendendo|vendo|viajando|vivendo|voando|voltando">
 
 <!-- Termos informais específicos pt_PT - the rule also tests with adding a "s" (plural) at the end of each word -->
-<!ENTITY informal "abéculas?|ajavardar|anhar|anjinhos?|bacan[ao]s?|badalos?|baita|baixinh[ao]s?|balof[ao]s?|baril|barracadas?|batelada|baza|bazam|bazas|bazaste|bazei|bazámos|bazamos|beijoqueir[ao]s?|bejecas?|bichan[ao]s?|bichinh[ao]s?|biscates?|bitaites?|blablablá|boazonas?|bonz(ão|ões)|bófias?|bonzudos?|bora|bués?|cadê|calhamaços?|camandros?|camisinhas?|caraças|carago|caramba|carangos?|carradas?|casinhas?|casórios?|caxamolas?|certinh[ao]s?|chaval[ao]s?|chilindrós?|cocó|coisar|copião|cornear|cum|cuscar|cusc[ao]s?|cuzinhos?|danad[ao]s?|drunfos?|encrencas?|engonhanço|engonhar|epa|esbardalhar|estrambótic[ao]s?|estrilho|fartazanas?|festarolas?|fezadas?|fixes|fixolas|fofinh[ao]s?|fónix|gabarolas?|gaj[ao]s?|garinas?|gatunar|gentinhas?|gosmas?|guit[ao]|gunas?|janad[ao]s?|javardices?|jolas?|larachas?|lelés?|mãezinhas?|mamalhud[ao]s?|mamocas?|man[ao]s?|marad[ao]s?|maralhas?|marimbar|milhent[ao]s?|moinas?|motoqueir[ao]s?|népias?|oi|olhómetros?|paizinhos?|papão|papo|passarocas?|peid[ao]s?|peidar|petiza?|piegas|porrada|porre|porreiros?|poucochinhos?|prenhas?|putos?|quecas?|queridinh[ao]s?|rabiosques?|rapaziadas?|tabefes?|tadinh[ao]s?|tanas|trampas?|transar|traques?|tretas?|trouxas?|vaquinhas?|velhot[ae]s?|vó|vô|xi|xixi|zilh(ão|ões)">
+<!ENTITY informal "abéculas?|ajavardar|anhar|anjinhos?|bacan[ao]s?|badalos?|baita|baixinh[ao]s?|balof[ao]s?|baril|barracadas?|batelada|baza|bazam|bazas|bazaste|bazei|bazámos|bazamos|beijoqueir[ao]s?|bejecas?|bezanas?|bichan[ao]s?|bichinh[ao]s?|biscates?|bitaites?|blablablá|boazonas?|bonz(ão|ões)|bófias?|bonzudos?|bora|bués?|cadê|calhamaços?|camandros?|camisinhas?|caraças|carago|caramba|carangos?|carradas?|casinhas?|casórios?|caxamolas?|certinh[ao]s?|chaval[ao]s?|chilindrós?|cocó|coisar|copião|cornear|cum|cuscar|cusc[ao]s?|cuzinhos?|danad[ao]s?|drunfos?|encrencas?|engonhanço|engonhar|epa|esbardalhar|estrambótic[ao]s?|estrilho|fartazanas?|festarolas?|fezadas?|fixes|fixolas|fofinh[ao]s?|fónix|gabarolas?|gaj[ao]s?|garinas?|gatunar|gentinhas?|gosmas?|guit[ao]|gunas?|janad[ao]s?|javardices?|jolas?|larachas?|lelés?|mãezinhas?|mamalhud[ao]s?|mamocas?|man[ao]s?|marad[ao]s?|maralhas?|marimbar|milhent[ao]s?|moinas?|motoqueir[ao]s?|népias?|oi|olhómetros?|paizinhos?|papão|papo|passarocas?|peid[ao]s?|peidar|petiza?|piegas|porrada|porre|porreiros?|poucochinhos?|prenhas?|putos?|quecas?|queridinh[ao]s?|rabiosques?|rapaziadas?|tabefes?|tadinh[ao]s?|tanas|trampas?|transar|traques?|tretas?|trouxas?|vaquinhas?|velhot[ae]s?|vó|vô|xi|xixi|zilh(ão|ões)">
 
 <!-- Estrangeirismos específicos pt_PT - the rule also tests with adding a "s" (plural) at the end of each word -->
 <!ENTITY barbarismos "accelerandos?|agitato|allegretto|allegro|amabile|apfelstrudel|backups?|badine|bavaroise|beagle|becquerel|bip|blague|blister|boate|bonsai|breakdance|brie|cache-sexe|calzone|camber|campus|caniche|cânon|cantabile|cantata|carpaccio|chaise-longue|charleston|chartreuse|cheddar|clarke|clear|clearance|cloisonné|códex|coloratura|continuum|cookies?|cordon-bleu|corpus|coulomb|crevasse|croissant|cumbia|czarina|datcha|debye|deficit|design|designers?|doping|doppler|drives?|duce|duplex|ecstasy|ensalada|ensemble|entente|evasé|fait-divers|fanfreluche|farads?|fatwa|fax|fermata|flamenco|flash|flashes|fondue|forint|fortran|fox|freeware|fugato|funk|gay|glamour|glide|gospel|gouda|grunge|guaracha|habanera|habitat|habitus|hip-hop|hippies?|homo|horseball|hype|ibidem|id|impedimenta|influenza|in-octavo|interferon|internet|item|jacuzzi|jamboree|jazz|joint-venture|joule|junkies?|kamikazes?|karaoke|karting|kasba|ketchup|kina|kitchenette|kuna|kwacha|kwanza|lamé|larghetto|leasing|legato|lingerie|locus|maestoso|majorette|mambo|managers?|maquis|marketing|maser|matrioska|maxwell|microfarad|milcurie|miserere|misters?|modems?|moderato|modus|mohair|muesli|mvdol|napalm|necessaire|net|new-age|noir|nomenklatura|nuance|nylon|offshores?|opus|origami|ossobuco|ouguiya|paanga|pahoehoe|paparazzi|parsec|patchouli|pecorino|pence|perestroika|petit-suisse|pianoforte|pickles?|piercing|pilé|pince-nez|pinscher|playboys?|poche|pogrom|poise|poodle|pop|posteriori|pot-pourri|práxis|priori|prise|promenade|punks?|putter|puzzle|quantum|quark|quiche|ralenti|rallentando|rave|ready-made|reggae|régie|reprise|reps|réveillon|rickettsia|rinforzando|ritardando|rocaille|rodeo|roentgen|rookie|rubato|samples?|sashimi|scherzando|scherzo|scone|set|setter|sexy|sfogato|sforzando|shareware|shar-pei|shiatsu|shopping|sic|sidecar|sievert|single|skates?|slalom|smorzando|socialite|sottovoce|soul|spas?|spins?|sprays?|sprue|staccato|stands?|stilb|stock|stop|stress|strippers?|superstars?|surf|sushi|tai-chi|tandem|tavolatura|techno|teflon|telex|terylene|tickets?|timeshare|tiramisu|tofu|toner|tópos|tops?|tori|trailer|tremolo|trial|triplex|tsunami|tupperware|tutilimúndi|tutti|tutu|vaudeville|velcro|vernissage|vibrato|vide|vides|vintage|vitae|vitrine|vivace|volte-face|waffle|web|weber|yang|yeti|yin|yuppie">
@@ -75,7 +76,7 @@ USA
 <!ENTITY barbarismos_rev3 "afición|aficiones|blockchains?|bodyboarders?|bolds?|buffers?|bugs?|builds?|bunkai|cents?|check-ins?|chipsets?|clusters?|cookie-cutters?|cover-ups?|crowdfundings?|crowdsourcings?|default|desktops?|drafts?|emojis?|emoticons?|fanzines?|feedbacks?|flags?|footnotes?|frameworks?|friendly|futons?|gaps?|geocachers?|geocaching|gilberts?|health|heights?|hotspots?|hoverboards?|icebergs?|input-output|interfaces?|jetpacks?|knowing-doing|logs?|LEDs?|likes?|marketplaces?|nudes?|open-source|overclockings?|pidgins?|podcasts?|previews?|rankings?|rap|reviews?|scams?|scammers?|scripts?|skippers?|smileys?|snipers?|spoofing|spreads?|sticks?|sudokus?|takeovers?|tatamis?|tokens?|top-down|trackpads?|thrashers?|trackings?|tweets?|underground|Unicode|uploads?|walkie-talkies?|warm-ups?|webcams?|webinars?|webmail|webmasters?|whalewatching|widths?|woks?|yeah|yes-man|zen|zooms?">
 
 <!-- Termos depreciativos específicos pt_PT - the rule uses inflected='yes' to get all forms -->
-<!ENTITY depreciativo_pt_pt "alarve|badalhoco|badameco|baianada|bandalho|betinho|bimbalhada|bimbo|bosta|brasuca|brega|bumbo|cabrão|caguinchas|campónio|caralhão|chacha|chico-esperto|china|chinoca|choninhas|chulo|chunga|chungaria|chunguice|ciganada|ciganagem|coirão|coninhas|crápula|cretino|escarumba|escória|escumalha|espertalhão|espertinho|fufa|gagá|gandulo|generaleco|gentalha|gentiaga|gordalhão|imbecil|indigente|japa|labrego|lamechas|larilas|lorpa|maldito|maltrapilho|maniento|maricão|mariconço|mariquinhas|mentecapto|mitra|molenga|molengão|monhé|morcão|negralhada|nhurrice|nhurro|otário|pacóvio|palerma|panasca|panilas|parolo|patego|pelintra|pindérico|portuga|pretalhada|pretaria|pulha|puta|rabeta|ralé|reles|sacana|tanso|tótó|tuga|velhaco|Zé-ninguém">
+<!ENTITY depreciativo_pt_pt "alarve|alarvezinho|aldrabão|aldrabãozinho|badalhoco|badalhocozinho|badameco|badamecozinho|baianada|baianadinha|bandalho|bandalhozinho|bêbadinho|bêbado|betinho|bimbalhada|bimbalhadinha|bimbinho|bimbo|bocó|bocozinho|bosta|bostinha|brasuca|brasuquinha|brega|breguinha|bumbinho|bumbo|cabrão|cabrãozinho|caguinchas|caguinchinhas|calão|calãozinho|campónio|campóniozinho|caralhão|caralhãozinho|chacha|chachinha|chico-espertinho|chico-esperto|china|chininha|chinoca|chinocinha|choninhas|chulo|chunga|chungaria|chunguice|ciganada|ciganagem|coirão|coninhas|crápula|cretino|escarumba|escória|escumalha|espertalhão|espertinho|estúpido|fanfarrão|fufa|gagá|gajo|gandulo|generaleco|gentalha|gentiaga|gordalhão|gordalhãozinho|idiota|idiotinha|imbecil|imbecilzinho|indigente|japa|japinha|labrego|labreguinho|lamechas|lamechinhas|larilas|larilinhas|lorpa|lorpinha|malditinho|maldito|maltrapilho|manientinho|maniento|maricão|maricãozinho|maricas|mariconcinho|mariconço|mariquinhas|mentecaptinho|mentecapto|mitra|mitrinha|molenga|molengão|molengãozinho|molenguinha|monhé|monhézinho|morcão|morcãozinho|negralhada|negralhadinha|nhurrice|nhurrinha|nhurrinho|nhurro|otário|pacóvio|palerma|palerminha|panaca|panaquinha|panasca|panasquinha|paneleirinho|paneleiro|panilas|panilinhas|parolinho|parolo|parvinho|parvo|parvozinho|patego|pateguinho|pelintra|pelintrinha|pindérico|pindéricozinho|pita|pitinha|pito|portuga|portuguinha|pretalhada|pretalhadinha|pretaria|pretarinha|prostituta|prostitutinha|pulha|pulhinha|puta|putinha|rabeta|rabetinha|ralé|reles|sacana|sacaninha|tansinho|tanso|tolinho|tolo|tótó|tuga|tuguinha|velhaco|velhaquinho|vigarista|vigaristinha|zé-ninguém|zé-povinho">
 
 <!ENTITY verbos_informais "és|estás|tens|tenhas">
 
@@ -131,79 +132,67 @@ USA
     </rule>
 
 
-    <rulegroup id='AVOID_GERUND' name='[pt-PT] Evitar o Gerúndio (perifrásico)' default='on' type='style' tone_tags="objective">
+    <rule id='AVOID_GERUND' name='[pt-PT] Evitar o Gerúndio (perifrásico)' type='style' tone_tags='objective'>
         <!-- Created by Tiago F. Santos , Portuguese rule, 2016-11-24 -->
-        <url>https://pt.wikipedia.org/wiki/Gerundismo</url>
-        <short>Possível gerundismo.</short>
 
-        <!-- Later revise the whole "&gerundio_verbos;" and "&gerundio_excecoes;" -->
-        <antipattern>
-            <token postag='SENT_START|_PUNCT|N.+|AQ.+|VMP00.+|CS|RM|RG|Z0.+|AO.+|VMN000.+|RN|CC|[DP].+|VMSI.+|UNKNOWN' postag_regexp='yes'/>
-            <token min='0' max='1' postag='_QUOT' postag_regexp='no'/>
-            <token min='0' max='1' inflected='yes' regexp='yes'>&gerundio_verbos;</token>
-            <token regexp='yes'>&gerundio_excecoes;<exception scope='previous' postag_regexp='yes' postag='VMN000.+'/></token>
-            <example>Com efeito, vinham-se acumulando estudos e testemunhos.</example>
-            <example>Na época eram basicamente feitos usando pequenos objetos.</example>
-            <example>Em França existe um limite que é aumentado usando carregadores de munição.</example>
-            <example>E mesmo que não estejam muito interessados em participar podem ajudar fazendo chegar esta ideia a outras pessoas.</example>
-            <example>O número de desenvolvedores vem aumentando.</example>
-            <example>Os terroristas agem contra os Estados recorrendo à força militar.</example> <!-- "Estados" appears as verb - bug -->
-            <example>Lentamente vão caindo as folhas.</example>
-            <example>Rapidamente fomos subindo o leito do Ribeirão, galgando rochas e mudando de margem várias vezes.</example>
-            <example>Ao fazê-lo vão saindo resultados cada vez mais inesperados.</example>
-            <example>Então, nasceu o povoado e as casas foram subindo a colina.</example>
-            <example>Pra botar a muda na roça sem a lagarta, a gente ia passando aquele Orthene.</example>
-            <example>Devagarinho as folhas vão caindo.</example>
-            <example>Mas foram utilizadas também em outros templos por toda a Antiguidade, e vêm sendo utilizadas até hoje.</example>
-            <example>Com as mãos mesmo, pegue um pouco da tapioca e vá jogando dentro da frigideira.</example>
-            <example>É assim que vou conquistando minhas metas”, explica.</example>
-            <example>E ele foi abandonando uma a uma.</example>
-            <example>Votei no Jair Bolsonaro, e revelo que eu vinha fazendo propaganda para ele desde 2016.</example>
-            <example>Eles iam chegando às centenas.</example>
-            <example>Ao decorrer do sonho como se o tempo passasse fomos ficando mais intimos.</example>
-            <example>O gato preto ronronou como se estivesse sendo acariciado.</example>
-            <example>Eu pensei que estivesse fazendo o que você queria.</example>
-            <example>Eu me sinto como se estivesse sendo sempre seguido.</example>
-            <example>Pensei que estivesse indo.</example>
-            <example>Você sente como se estivesse repetindo um padrão?</example>
+        <antipattern> <!-- Add number agreement exceptions so that rule ID:GENERAL_VERB_AGREEMENT_ERRORS is triggered -->
+            <token postag='SENT_START|_PUNCT' postag_regexp='yes'/>
+            <token min='1' max='2' postag='AQ..P.+|N..P.+|(SPS00:)?[DP]...P.+' postag_regexp='yes'/>
+            <token postag='VM...S.+' postag_regexp='yes'/>
+            <token postag='VMG000+' postag_regexp='yes'/>
+            <token postag='AQ..P.+|N..P.+|(SPS00:)?[DP]...P.+|VM...P.+|CS' postag_regexp='yes'/>
+            <example>Os itens vem sendo encarecidos em média 8% por semana.</example>
+            <example>Por isso, algumas medidas vem sendo adotadas pelos legisladores para suavizar essa demora.</example>
+            <example>Vocês está sugerindo que pode não ter sido um acidente?</example>
         </antipattern>
 
-        <rule>
-            <pattern>
-                <token inflected='yes' regexp='yes' postag_regexp="yes" postag="V.+:PP.+">estar|andar|ir|vir</token><!-- TODO Review all cases and confirm it can be safely expanded to more cases-->
-                <token postag='V.G0+' postag_regexp='yes'><exception postag='V.G0+' postag_regexp='yes' negate_pos='yes'/></token>
-            </pattern>
-            <message>Se possível, evite o gerúndio.</message>
-            <suggestion>\1 a <match no='2' postag='VMN0000' case_conversion="alllower"/></suggestion>
-            <example correction='iam-se a acender'>As luzes <marker>iam-se acendendo</marker> à medida que ela passava.</example>
-        </rule>
-        <rule>
-            <pattern>
-                <token inflected='yes' regexp='yes'>estar|andar|ir|vir</token>
-                <token postag='V.G0+' postag_regexp='yes'/>
-            </pattern>
-            <message>Se possível, evite o gerúndio.</message>
-            <suggestion>\1 a <match no='2' postag='VMN0000' case_conversion="alllower"/></suggestion>
-            <example correction='Vou a olhar'><marker>Vou olhando</marker> para o que acontece.</example> <!-- TODO This may be correct in some circunstances. REVIEW -->
-        </rule>
-        <rule>
-            <pattern>
-                <token postag='V.+' postag_regexp='yes' inflected="yes" regexp="yes">continuar|estar|ir|ficar
-                <exception inflected='yes' regexp='yes'>medida|votar</exception>
-                <exception negate_pos='yes' postag='V.+' postag_regexp='yes'/></token>
-                <token postag='V.G0+' postag_regexp='yes'><exception postag='V.G0+' postag_regexp='yes' negate_pos='yes'/></token>
-            </pattern>
-            <message>Se possível, evite o gerúndio.</message>
-            <suggestion>\1 a <match no='2' postag='VMN0000' case_conversion="alllower"/></suggestion>
-            <example correction='continua a ser'>O processo básico <marker>continua sendo</marker> o mesmo.</example>
-            <example correction='está a soprar'>...ventos do oeste, <marker>está soprando</marker> por cima das águas...</example>
-            <example correction='Vou a olhar'><marker>Vou olhando</marker> para o que acontece.</example> <!-- TODO This may be correct in some circunstances. REVIEW -->
-        </rule>
+        <antipattern> <!-- #1: Verbos Auxiliares: most exceptions were taken from DeepSeek-V3 -->
+            <token inflected='yes' regexp='yes'>&gerundio_verbos_auxiliares;</token>
+            <token regexp='yes'>&gerundio_excecoes_verbos_auxiliares;</token>
+            <example>Sepultura: O grupo brasileiro de maior repercussão mundial estava vivendo um grande momento da carreira.</example>
+            <example>Então, nasceu o povoado e as casas foram subindo a colina.</example>
+            <example>Assim, Valdés nunca soube que tinha câncer e continuou trabalhando.</example>
+            <example>Mas estou muito feliz, principalmente pelo projecto que eles estão fazendo com a UNICEF.</example>
+            <example>O disparo talvez tenha ocorrido no campo de trigo em que estava pintando ou em um celeiro local.</example>
+            <example>T.O.P observa que: "você não divide a música pop pelo grupo étnico de quem está fazendo.</example>
+            <example>Ela me disse para ouvir com a mente aberta, já que não estavam cantando em inglês.</example>
+            <example>Enquanto eu te amar (e te odiar), eu continuarei escrevendo.</example>
+            <example>Você não está fazendo nada mesmo!</example>
+            <example>Pouco a pouco vai descobrindo que a fé é luz e caminho, é verdade e vida.</example>
+            <example>E fiquei sabendo que 2 meses antes ele tinha conversado com os meus pais!</example>
+            <example>Se fosse algo escondido logo eu saberia,e assim fiquei sabendo.</example>
+        </antipattern>
 
-    </rulegroup>
+        <antipattern> <!-- #2: Verbos NÃO Auxiliares: most exceptions were taken from DeepSeek-V3 -->
+            <token regexp='yes' inflected='yes'>&gerundio_verbos_nao_auxiliares;</token>
+            <token regexp='yes'>&gerundio_excecoes_verbos_nao_auxiliares;</token>
+            <example>Por conta disso George Michael chegou a processar a gravadora, mas acabou perdendo a causa.</example>
+            <example>A LAUMI foi criada pensando em redefinir o seu conceito em salão de beleza.</example>
+            <example>Acabei fechando o roteiro com Berlim-Praga-Karlovy Vary-Budapeste-Paris e Roma.</example>
+            <example>Foi a primeira vez na vida que não consegui me enrolar e acabei deixando a dor vencer.</example>
+            <example>Procure no Google Maps que você vai ver a estrada que fizeram cortando o cemitério que ficou ao lado da praça.</example>
+            <example>Melissa acaba morrendo.</example>
+            <example>Acho muito provável que as possibilidades tenham vindo a acontecer tornando o que somos hoje.</example>
+            <example>O lixo que você joga na rua acaba chegando nos rios, mares e lagoa.</example>
+            <example>Minha alternativa foi correr pro Mate do Linux Mint, mas acabei voltando pro Arch.</example>
+            <example>Com um pouco mais de esforço você vai acabar inventando a roda.</example>
+            <example>Como a gente sempre acaba sabendo de tudo… ela foi convidada para passar esse último feriado na casa de Mário.</example>
+            <example>Acabei passando um vermelho super bonito, mas mesmo assim com muita vontade de passar o azul.</example>
+        </antipattern>
+
+        <pattern>
+            <token inflected='yes' regexp='yes'>&gerundio_verbos_auxiliares;|&gerundio_verbos_nao_auxiliares;</token><!-- TODO Review all cases and confirm it can be safely expanded to more cases-->
+            <token postag='VMG000+' postag_regexp='yes'/>
+        </pattern>
+        <message>Se possível, evite o gerúndio.</message>
+        <suggestion>\1 a <match no='2' postag='VMN0000' case_conversion="alllower"/></suggestion>
+        <url>https://pt.wikipedia.org/wiki/Gerundismo</url>
+        <short>Possível gerundismo.</short>
+        <example correction='está a levar'>A outra pessoa o <marker>está levando</marker> à loucura.</example>
+    </rule>
 
 
-<!-- EVITAR O GERÚNDIO Evitar o gerúndio em pt-PT	       -->
+<!-- EVITAR O GERÚNDIO Evitar o gerúndio em pt-PT -->
 <!-- Created by Tiago F. Santos , Portuguese rule, 2016-11-24 -->
 <rule id='AVOID_GERUND_ALL' name='[pt-PT] Evitar o Gerúndio (completo)' default='off' type='style' tone_tags="objective">
     <pattern>
@@ -360,13 +349,25 @@ USA
     </rule>
 
 
-    <!-- ESTRANGEIRISMOS ESPECÍFICOS pt_PT -->
     <rule id='BARBARISMS_PT_PT_V3' name="[pt-PT] Estrangeirismos específicos pt_PT" type="style">
         <!-- IDEA foreign_terms -->
-        <!--      Created by Tiago F. Santos (2017-02-09) and improved by Marco A.G.Pinto and Ricardo Joseh Lima, Portuguese rule 2022-07-26 + 2022-10-03 (Checked/Enhanced) (25-JUL-2022+)      -->
         <!--
             This rule is only available to pt-PT. Dissertations, theses and academic papers in European Portuguese use this.
         -->
+
+        <antipattern>
+            <token regexp='yes'>[*]</token>
+            <token regexp='yes' spacebefore='no'>(?:&barbarismos;|&barbarismos_rev2;|&barbarismos_rev3;)s?</token>
+            <token regexp='yes' spacebefore='no'>[*]</token>
+            <example>O *bullying* é uma ofensa grave.</example>
+        </antipattern>
+
+        <antipattern>
+            <token regexp='yes'>[_]</token>
+            <token regexp='yes' spacebefore='no'>(?:&barbarismos;|&barbarismos_rev2;|&barbarismos_rev3;)s?</token>
+            <token regexp='yes' spacebefore='no'>[_]</token>
+            <example>O _bullying_ é uma ofensa grave.</example>
+        </antipattern>
 
         <antipattern>
             <token postag='_QUOT'/>
@@ -453,9 +454,11 @@ USA
     <message>Os estrangeirismos (português europeu) devem estar entre aspas ou ser italizados.</message>
     <suggestion>‘\1’</suggestion>
     <suggestion>“\1”</suggestion>
+    <suggestion>*\1*</suggestion>
+    <suggestion>_\1_</suggestion>
     <url>https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/estrangeirismos-em-italico-ou-entre-aspas/7785</url>
-    <example correction='‘software’|“software”'>O <marker>software</marker> é poderoso.</example>
-    <example correction='‘softwares’|“softwares”'>Os <marker>softwares</marker> são poderosos.</example>
+    <example correction='‘software’|“software”|*software*|_software_'>O <marker>software</marker> é poderoso.</example>
+    <example correction='‘softwares’|“softwares”|*softwares*|_softwares_'>Os <marker>softwares</marker> são poderosos.</example>
     <example>Ainda estão a debater se adquirem ou não acesso à Internet.</example> <!-- "Internet" in uppercase is a NP thus ignored. -->
     <example>O “suspense” é imenso.</example>
     <example>Ao navegar ou utilizar os nossos serviços, aceita o uso que fazemos das 'cookies'.</example>
@@ -1237,7 +1240,7 @@ USA
 </rulegroup>
 
 
-    <rulegroup id='COLOQUIALISMOS_PT_PT' name="[Formal] Coloquialismos: evitar expressões orais" default="on" tone_tags="formal">
+    <rulegroup id='COLOQUIALISMOS_PT_PT' name="[pt-PT][Formal] Coloquialismos: evitar expressões orais" default="on" tone_tags="formal">
 
         <rule>
             <pattern>
@@ -2085,7 +2088,82 @@ USA
         <short>Coloquialismo</short>
         <example correction=''>Vai <marker>dar uma volta ao bilhar grande</marker>.</example>
     </rule>
+   <rule> <!-- Used ChatGPT 4o for enhancements and extra accuracy -->
+        <pattern>
+            <token>de</token>
+            <token>um</token>
+            <token>dia</token>
+            <token>para</token>
+            <token>o</token>
+            <token>outro</token>
+        </pattern>
+        <message>&colloquialism_msg;</message>
+        <suggestion>rapidamente</suggestion>
+        <suggestion>subitamente</suggestion>
+        <suggestion>repentinamente</suggestion>
+        <suggestion>num curto intervalo de tempo</suggestion>
+        <short>Coloquialismo</short>
+        <example correction='rapidamente|subitamente|repentinamente|num curto intervalo de tempo'>A Ana fê-lo <marker>de um dia para o outro</marker>.</example>
+    </rule>
     </rulegroup>
+
+
+
+        <rulegroup id='GASTAR_DESPENDER_DESEMBOLSAR' name='[pt-PT][Formal] gastar → despender/desembolsar' tone_tags='formal' is_goal_specific='true'>
+        <!-- Used ChatGPT 4o for enhancements and extra accuracy -->
+
+            <rule> <!-- #1: No past participle of "gastar" -->
+                <antipattern>
+                    <token postag='SPS00|(SPS00:)?D.+|Z0.+|VM...P.+|_PUNCT' postag_regexp='yes'/>
+                    <token regexp='yes'>gastos?</token>
+                    <example>mas com inflação comendo o bolo e alguns gastos surgindo no meio do caminho,</example>
+                    <example>ocorrida entre a data do gasto e o efetivo pagamento é atualmente ajustada na fatura do mês posterior</example>
+                    <example>mas com inflação comendo o bolo e alguns gastos surgindo no meio do caminho, não acho absurdo duplicar.</example>
+                    <example>O e-commerce não possui tantos gastos, pois o aluguel de um prédio</example>
+                    <example>a variação cambial ocorrida entre a data do gasto e o efetivo pagamento é atualmente ajustada na fatura</example>
+                    <example>para que fosse feito as pressas, as trapalhadas dos estádios, qtos milhões gastos, </example>
+                    <example>terras e assumimos gastos públicos a favor do capital privado, na expectativa de novos milagres</example>
+                    <example>alimentado por um aumento dramático em construção, gastos do consumidor e investimento</example>
+                </antipattern>
+                <pattern>
+                    <marker>
+                        <token skip='4' inflected='yes' regexp='no'>gastar
+                            <exception scope='previous' regexp='yes' inflected='yes'>ter|haver|ser</exception></token>
+                    </marker>
+                    <token regexp='yes' inflected='yes'>abono|ações|adiantamento|afegane|aluguel|aporte|ariary|ativos|baht|balboa|benefício|bem|birr|bitcoin|bolívar|boliviano|bolsa|cambial|câmbio|capital|capitalização|cartão|cartola|caução|cédula|cent|centavo|centésimo|cêntimo|cheque|cobrança|colón|comissão|conto|contraprestação|contribuição|conversão|cordoba|coroa|crédito|criptoativo|cruzado|cruzeiro|dalasi|debêntures|denar|despesa|diárias|dinar|dinheiro|dirham|dividendos|divisas|dízimo|doação|dólar|dong|dote|dram|empréstimo|escudo|ether|euro|fiança|financiamento|forint|franco|fundo|garantia|guarani|herança|honorário|hryvnia|iene|importância|imposto|intercâmbio|investimento|juro|kina|kip|krone|kuna|kwanza|kyat|lari|lastro|legado|leilão|lek|lempira|libra|litecoin|lucro|manat|mark|meio|mensalidade|mercado|mercadoria|metical|moeda|montante|nakfa|negócio|nota|numerário|obrigações|oferta|opção|ordenado|ouguiya|ouro|paanga|pagamento|pagável|parcelamento|pataca|patrim[óô]nio|pecúlio|pecúnia|penhor|pensão|peso|peso-convertível|poupança|prata|pr[éê]mio|prestação|propriedade|provento|pula|quantia|quetzal|rand|real|receita|recurso|reembolso|remessa|remuneração|rendimento|reserva|resgate|riel|ringgit|riqueza|royalties|rublo|rupia|salário|saldo|shekel|shilling|sol|som|somoni|subscrição|subsídio|subvenção|taka|tala|tarifa|taxa|título|toea|token|tributo|trocado|troco|tugrik|valor|valor-facial|valores-mobiliários|vatu|vencimento|won|yuan|zloty</token>
+                </pattern>
+                <message>&informal_msg;</message>
+                <suggestion><match no='1' postag='VM[^P].+' postag_regexp='yes'>despender</match></suggestion>
+                <suggestion><match no='1' postag='VM[^P].+' postag_regexp='yes'>desembolsar</match></suggestion>
+                <example correction="despendeu|desembolsou">A Ana <marker>gastou</marker> demasiado dinheiro no supermercado.</example>
+                <example correction="despende|desembolsa">Ela <marker>gasta</marker> bastante dinheiro em livros.</example>
+                <example>A empresa tinha gasto mil milhões de euros nessas compras.</example>
+                <example>Queria não ter gastado tanto dinheiro.</example>
+                <example>Tenho gastado muito dinheiro em minha casa.</example>
+                <example>Tom desejava não haver gasto tanto dinheiro. </example>
+            </rule>
+
+            <rule> <!-- #2: Past participle of "gastar" -->
+                <antipattern>
+                    <token postag='VMIP1.+' postag_regexp='yes'/>
+                    <token regexp='no'>gastos</token>
+                    <example>Tenho gastos e impostos a pagar todos os meses.</example>
+                    <example>Temos gastos e impostos a pagar todos os meses.</example>
+                </antipattern>
+                <pattern>
+                    <token inflected='yes' regexp='yes'>ter|haver|ser</token>
+                    <marker>
+                        <token skip='4' inflected='yes' regexp='no' postag_regexp='yes' postag='VMP00.+'>gastar</token>
+                    </marker>
+                    <token regexp='yes' inflected='yes'>abono|ações|adiantamento|afegane|aluguel|aporte|ariary|ativos|baht|balboa|benefício|bem|birr|bitcoin|bolívar|boliviano|bolsa|cambial|câmbio|capital|capitalização|cartão|cartola|caução|cédula|cent|centavo|centésimo|cêntimo|cheque|cobrança|colón|comissão|conto|contraprestação|contribuição|conversão|cordoba|coroa|crédito|criptoativo|cruzado|cruzeiro|dalasi|debêntures|denar|despesa|diárias|dinar|dinheiro|dirham|dividendos|divisas|dízimo|doação|dólar|dong|dote|dram|empréstimo|escudo|ether|euro|fiança|financiamento|forint|franco|fundo|garantia|guarani|herança|honorário|hryvnia|iene|importância|imposto|intercâmbio|investimento|juro|kina|kip|krone|kuna|kwanza|kyat|lari|lastro|legado|leilão|lek|lempira|libra|litecoin|lucro|manat|mark|meio|mensalidade|mercado|mercadoria|metical|moeda|montante|nakfa|negócio|nota|numerário|obrigações|oferta|opção|ordenado|ouguiya|ouro|paanga|pagamento|pagável|parcelamento|pataca|patrim[óô]nio|pecúlio|pecúnia|penhor|pensão|peso|peso-convertível|poupança|prata|pr[éê]mio|prestação|propriedade|provento|pula|quantia|quetzal|rand|real|receita|recurso|reembolso|remessa|remuneração|rendimento|reserva|resgate|riel|ringgit|riqueza|royalties|rublo|rupia|salário|saldo|shekel|shilling|sol|som|somoni|subscrição|subsídio|subvenção|taka|tala|tarifa|taxa|título|toea|token|tributo|trocado|troco|tugrik|valor|valor-facial|valores-mobiliários|vatu|vencimento|won|yuan|zloty</token>
+                </pattern>
+                <message>&informal_msg;</message>
+                <suggestion><match no='2' postag='VMP.+' postag_regexp='yes'>despender</match></suggestion>
+                <suggestion><match no='2' postag='VMP.+' postag_regexp='yes'>desembolsar</match></suggestion>
+                <example correction="despendido|desembolsado">Ele tinha <marker>gasto</marker> muito dinheiro.</example>
+                <example correction="despendido|desembolsado">Ele havia <marker>gasto</marker> muito dinheiro.</example>
+            </rule>
+        </rulegroup>
 
 
         <rule id='DIFICULDADES_PROVAÇÕES' name="[pt-PT][Formal] Passar 'dificuldades' → 'provações'" tags='picky' tone_tags='formal'>
@@ -2155,11 +2233,21 @@ USA
 
 
     <!-- TODO Add antipattern for dash and quotations -->
-    <rulegroup id='FORMAL_T-V_DISTINCTION' name='[pt-PT][Formal] Tratamento formal: Tu,Você; Vós,Vocês' default='on' tags="picky">
+    <rulegroup id='FORMAL_T-V_DISTINCTION' name='[pt-PT][Formal] Tratamento formal: Tu,Você; Vós,Vocês' default='on' tags='picky'>
         <!-- Created by Tiago F. Santos , Portuguese rule, 2016-12-28 -->
         <url>https://pt.wikipedia.org/wiki/Distin%C3%A7%C3%A3o_t-v</url>
 
         <!-- Inserted global antipatterns for all subrules on top. -->
+
+        <antipattern>
+            <token postag_regexp='yes' postag='_PUNCT|SENT_START'/>
+            <token postag_regexp='yes' postag='DA.+'/>
+            <token skip='-1' postag_regexp='yes' postag='N.+|AQ.+'><exception scope='next' postag_regexp='yes' postag='DP.+'/></token>
+            <token postag_regexp='yes' postag='(VMIP3S0|VMM02S0):PP1CSO00'/>
+            <example>O TENENTE SACOGNE diz-me que pediu passagem para a reserva, para onde vai no posto de MAJOR.</example>
+            <example>A pele das serpentes repugna-me.</example>
+            <example>A Ana repugna-me.</example>
+        </antipattern>
 
         <!-- ChatGPT 4o: "All these verbs are related to absence, need, or lack and are, therefore, exceptions to the proposed rule." -->
         <antipattern>
@@ -2558,8 +2646,6 @@ USA
         <short>Tratamento informal</short>
         <example correction="Escolhia"><marker>Escolhias</marker> um projeto melhor.</example>
         <example correction="Dirá"><marker>Dirás</marker> a opção correcta.</example>
-        <example>—Dirás a opção correcta.</example>
-        <example>“Dirás a opção correcta.”</example>
         <example>Ela está preocupada com a evolução, a física, a química, e...</example>
         <example>A Astronomia é uma ciência natural que estuda corpos celestes.</example>
         <example correction="Está"><marker>Estás</marker> bem?</example>
@@ -3913,132 +3999,6 @@ USA
     <category id='SHORTEN_IT_PT_PT' name="[pt-PT] Linguagem concisa" type="style">
 
 
-    <rule id='SIMPLIFICAR_À_VERBO_DE' name="[pt-PT][Simplificar] À + Verbo + De → A + Verbo Infinitivo" type="style">
-        <!-- IDEA shorten_it -->
-        <!--      Created by Marco A.G.Pinto, Portuguese rule 2021-11-11/12/15 (25-JUN-2021+)      -->
-        <!--
-            O Rui anda à procura de material científico. → O Rui anda a procurar material científico.
-        -->
-
-        <antipattern>
-            <token postag_regexp='yes' postag='VMSI.+|VMG0000|VMP00.+'/>
-            <token>à</token>
-            <token postag_regexp='yes' postag='NC.+|AQ.+|NP.+'/>
-            <token>de</token>
-            <token postag_regexp='yes' postag='NC.+|AQ.+|NP.+|DI.+|CS|V.+'/>
-            <example>Ele pediu que o adicionasse à lista de acesso da sala de chat.</example>
-            <example>A vida das pessoas, a autoestima e seus relacionamentos estão totalmente atrelados à forma de como se mostram ao mundo.</example>
-            <example>Esta ação evita que problemas e gastos excessivos ligados à falta de lubrificação, apareçam futuramente.</example>
-            <example>São tantas as páginas do meu livro marcadas à espera de serem lidas, que me perco sem saber qual delas ler primeiro.</example>
-            <example>Nós estamos indo à festa de aniversário do filho de Tom.</example>
-            <example>Conceitos fundamentais associados à obra de Bakhtin incluem o dialogismo, a polifonia (linguística), a heteroglossia e o carnavalesco.</example>
-            <example>A calorimetria é uma ramificação da termologia que analisa os problemas relacionados à troca de calor em sistemas de temperaturas diversas.</example>
-        </antipattern>
-
-        <!--
-            Em maio de 1863, submeteu-se à prova de admissão para o ingresso na Faculdade de Direito do Recife sendo reprovado.
-            E, ao se referir-se à visita de Lula, informou que "Lula honra Berlim e Hamburgo" com sua visita.
-            Em 25 de março de 1509, o papa Júlio II alia-se à Liga de Cambrai.
-        -->
-        <antipattern>
-            <token>se</token>
-            <token>à</token>
-            <token postag='VMIP3S0'/>
-            <token>de</token>
-            <token/>
-        </antipattern>
-        <!--
-            Estes dias estão ligados à vida de Jesus Cristo ou à história dos primórdios do movimento cristão.
-            Existe alguma possibilidade de que Tom tenha ido à casa de Mary ontem à noite?
-            Os problemas da educação da Bolívia não são necessariamente atribuídos à falta de fundos.
-            "Ele foi enviado à zona de operações onde foi seriamente ferido pela explosão de uma granada."
-            O homem está sujeito à pena de morte.
-            Tom não foi à casa de Marie?
-            Ele veio à procura de esclarecimentos.
-            Tom foi à casa de massagem.
-            Certa vez fomos à casa de tia Elisabete e encontramos a linda senhora desolada.
-            Fomos à praia assistir à queima de fogos de artifício.
-            Manuel, ateu, recusou-se a assistir à missa de sétimo dia do amigo que falecera.
-            Com um PIB per capita aproximado em 7.300 dólares americanos, o país pertence à faixa de renda média-baixa.
-        -->
-        <antipattern>
-            <token postag='VMP00.+|VMIS.+|VMIP3.+|VMN0000' postag_regexp='yes'>
-                <exception postag_regexp='yes' postag='AQ.+|NC.'/>
-                <exception regexp='yes' inflected='yes'>estar|andar</exception>
-            </token>
-            <token>à</token>
-            <token postag='VMIP3S0'/>
-            <token>de</token>
-            <token postag='RG|NP.+|AQ.+|NC.+|PI.+' postag_regexp='yes'/>
-        </antipattern>
-        <antipattern>
-            <token>à</token>
-            <token>prova</token>
-            <token>de</token>
-        </antipattern>
-        <antipattern>
-            <token postag_regexp='yes' postag='VMIP.+'/>
-            <token min='0' max='1' postag='RG'/>
-            <token>à</token>
-            <token postag_regexp='yes' postag='AQ.[CM].+|NC[CM].+'/>
-            <token>de</token>
-            <token postag_regexp='yes' postag='NC.+|AQ.+|NP.+|DI.+|CS|V.+'/>
-            <example>Estou sempre à cuca de palavras em falta nos dicionários open-source.</example>
-            <example>Os títulos estão à guarda de Bancos sólidos e as suas cotações diárias são observáveis em qualquer praça financeira mundial.</example>
-        </antipattern>
-        <pattern>
-            <token negate="yes">se</token>
-            <or>
-                <token postag='V.+|RG' postag_regexp='yes'>
-                    <exception postag_regexp='yes' postag='SPS.+|AQ..S.+|VMI[MS]3P.+|I'/>
-                </token>
-                <token>,</token>
-            </or>
-            <marker>
-                <token>à</token>
-                <token postag='VMIP3S0'>
-                    <exception regexp='yes'>academia|aldeia|banda|bandeira|boca|casa|comarca|condessa|data|empresa|estrada|faixa|figura|ideia|ilha|pena|porta|vida|zona|palavra|terra|seu|meu|sala|força</exception>
-                </token>
-                <token>de</token>
-            </marker>
-            <token negate_pos="yes" postag='DI.+' postag_regexp='yes'/>
-        </pattern>
-        <message>Em certos contextos, esta perífrase pode ser simplificada.</message>
-        <suggestion>a <match no='4' postag='VMN0000' postag_replace='VMIP3S0'/></suggestion>
-        <example correction="a procurar">O Rui anda <marker>à procura de</marker> material científico.</example>
-        <example>Lista dos viajantes que aportaram à ilha de Santa Catarina nos séculos XVIII e XIX</example>
-        <example>Já a multimidialidade se refere à mistura de diferentes mídias tradicionais (imagem, texto e som) para narrar um facto.</example>
-        <example>Ele se agarrou à esperança de que iria vê-la novamente algum dia.</example>
-        <example>Talvez esta noite eu vá à casa de minha irmã caçula.</example>
-        <example>Vamos à casa de chá!</example>
-        <example>Vou à casa da minha avó.</example>
-        <example>No Afeganistão, por exemplo, a homossexualidade levava à pena de morte sob o regime talibã.</example>
-        <example>Geralmente com pinturas alusivas à rosa-dos-ventos, à data de construção e às iniciais do proprietário.</example>
-        <example>Em 1839, pertencia à comarca de Ponte de Lima e, em 1852, à de Arcos de Valdevez.</example>
-        <example>Mais tarde regressou à banda de Basie.</example>
-        <example>Fez parte de um antigo mosteiro doado, entre 1032 e 1043, à condessa de Ildnara por mestre Savarigo.</example>
-        <example>Conecta a prefeitura de Aomori, na ilha japonesa de Honshu, à ilha de Hokkaido.</example>
-        <example>A palavra elegbara significa “aquele que é possuidor do poder (agbará)” e está ligado à figura de Exu.</example>
-
-        <example>Em maio de 1863, submeteu-se à prova de admissão para o ingresso na Faculdade de Direito do Recife sendo reprovado.</example>
-        <example>E, ao se referir-se à visita de Lula, informou que "Lula honra Berlim e Hamburgo" com sua visita.</example>
-        <example>Em 25 de março de 1509, o papa Júlio II alia-se à Liga de Cambrai.</example>
-
-        <example>Estes dias estão ligados à vida de Jesus Cristo ou à história dos primórdios do movimento cristão.</example>
-        <example>Existe alguma possibilidade de que Tom tenha ido à casa de Mary ontem à noite?</example>
-        <example>Os problemas da educação da Bolívia não são necessariamente atribuídos à falta de fundos.</example>
-        <example>"Ele foi enviado à zona de operações onde foi seriamente ferido pela explosão de uma granada."</example>
-        <example>O homem está sujeito à pena de morte.</example>
-        <example>Tom não foi à casa de Marie?</example>
-        <example>Ele veio à procura de esclarecimentos.</example>
-        <example>Tom foi à casa de massagem.</example>
-        <example>Certa vez fomos à casa de tia Elisabete e encontramos a linda senhora desolada.</example>
-        <example>Fomos à praia assistir à queima de fogos de artifício.</example>
-        <example>Manuel, ateu, recusou-se a assistir à missa de sétimo dia do amigo que falecera.</example>
-        <example>Com um PIB per capita aproximado em 7.300 dólares americanos, o país pertence à faixa de renda média-baixa.</example>
-    </rule>
-
-
     <rule id='SIMPLIFICAR_A_XXX_DE_VOCÊS' name="[pt-PT][Simplificar] A XXX de vocês → a vossa XXX" tone_tags="objective"> 
         <!-- IDEA shorten_it -->
         <antipattern>
@@ -4102,7 +4062,7 @@ USA
     </rule>
 
 
-    <rule id='CHEGAR_AO_FIM_FINDAR_TERMINAR' name="[pt-PT][Simplificar] Chegar ao fim → findar/terminar/acabar" type="style" tone_tags="objective" default="temp_off">
+    <rule id='CHEGAR_AO_FIM_FINDAR_TERMINAR' name="[pt-PT][Simplificar] Chegar ao fim → findar/terminar/acabar" type="style" tone_tags="objective">
         <!-- Used ChatGPT 4o for enhancements and extra accuracy -->
         <antipattern>
             <token postag='V.+|N.+|AQ.+|UNKNOWN|RN|SPS00' postag_regexp='yes'/>

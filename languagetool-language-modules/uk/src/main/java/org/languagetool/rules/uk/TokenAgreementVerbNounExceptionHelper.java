@@ -29,6 +29,7 @@ public final class TokenAgreementVerbNounExceptionHelper {
   private static final Pattern ADV_PREDICT_PATTERN = Pattern.compile("(adv|noninfl:&predic).*");
 
   private static final Pattern MODALS_ADJ = Pattern.compile("змушений|вимушений|повинний|здатний|готовий|ладний|радий");
+  private static final Pattern V_ROD_DRIVER_PATTERN = Pattern.compile("не|(на)?с[кт]ільки|(най)?більше|(най)?менше|(не|за)?багато|(не|чи|за)?мало|трохи|годі|неможливо|а?ніж|вдосталь|купу", Pattern.CASE_INSENSITIVE|Pattern.UNICODE_CASE);
   
   private TokenAgreementVerbNounExceptionHelper() {
   }
@@ -87,6 +88,13 @@ public final class TokenAgreementVerbNounExceptionHelper {
       return true; 
     }
     
+    // стало відомо ...
+    if( tokens[verbPos].getCleanToken().equalsIgnoreCase("стало")
+        && tokens[verbPos+1].getCleanToken().toLowerCase().matches("відомо|видно|зрозуміло") ) {
+      logException();
+      return true; 
+    }
+
     // хоче маляром
     if( LemmaHelper.hasLemma(tokens[verbPos], "хотіти") 
         && PosTagHelper.hasPosTagPart(tokens[nounAdjPos], "v_oru") ) {
@@ -159,6 +167,13 @@ public final class TokenAgreementVerbNounExceptionHelper {
     // підстрахуватися не зайве
     if( // tokens[verbPos].getCleanToken().toLowerCase().matches("було|буде")
         cleanTokenLower.matches("зайве|резон") ) {
+      logException();
+      return true; 
+    }
+
+    // навіщо було город городити
+    if( tokens[nounAdjPos-1].getCleanToken().toLowerCase().equals("далі")
+        && PosTagHelper.hasPosTag(tokens[nounAdjPos], Pattern.compile(".*v_rod.*")) ) {     // may be not just for v_naz
       logException();
       return true; 
     }
@@ -521,8 +536,7 @@ public final class TokenAgreementVerbNounExceptionHelper {
     if( state.verbPos > 1
         && PosTagHelper.hasPosTagPart(tokens[state.nounPos], "v_rod") ) {
 
-      Pattern vRodDriverPattern = Pattern.compile("не|(на)?с[кт]ільки|(най)?більше|(най)?менше|(не|за)?багато|(не|чи|за)?мало|трохи|годі|неможливо|а?ніж|вдосталь|купу", Pattern.CASE_INSENSITIVE|Pattern.UNICODE_CASE);
-      int xpos = LemmaHelper.tokenSearch(tokens, state.verbPos-1, (String)null, vRodDriverPattern, Pattern.compile("[a-z].*"), Dir.REVERSE);
+      int xpos = LemmaHelper.tokenSearch(tokens, state.verbPos-1, (String)null, V_ROD_DRIVER_PATTERN, Pattern.compile("[a-z].*"), Dir.REVERSE);
       if( xpos >= 0 && xpos >= state.verbPos-4 ) {
           logException();
           return true;

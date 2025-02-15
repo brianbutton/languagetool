@@ -1378,6 +1378,7 @@ Braintree
 MongoDB
 Zscaler
 Marriott
+Marriott Bonvoy
 GQ
 Vanity Fair
 Northvolt
@@ -1396,6 +1397,7 @@ AirDrop
 GPT-2
 GPT-3
 GPT-4
+gpt-4o-mini
 Bertrandt
 Roundcube
 GeForce
@@ -1430,6 +1432,7 @@ Counter Strike
 Flipkart
 Foxconn
 Palantir
+Palantir Technologies
 ASML
 ✏️
 ➡️
@@ -3437,12 +3440,14 @@ ATI Radeon
 MTU Aero Engines
 Justin Trudeau
 Pierre Trudeau
+Trudeau
 Stephen Harper
 Paul Martin
 Jean Chrétien
 Scott Morrison
 Malcolm Turnbull
 Chrystia Freeland
+Freeland
 Lawrence MacAulay
 Carolyn Bennett
 Jean-Yves Duclos
@@ -5371,6 +5376,7 @@ Forrester Wave
 IDC MarketScape
 Alexander Wynaendts
 Luis García Berlanga
+García Berlanga
 Jules Massenet
 Manon Lescaut
 des Grieux
@@ -6092,6 +6098,7 @@ Hail Mary
 Pierre Curie
 Josh Duhamel
 Ursa Major
+Ursae Majoris
 Coritiba F.C.
 Baton Rouge
 Lila Downs
@@ -7522,6 +7529,7 @@ Atlas Copco
 Microsoft Corp
 UnitedHealth
 UnitedHealth Group
+UnitedHealthcare
 Oracle Corp
 McDonalds Corp
 Tokyo Electron
@@ -7541,6 +7549,7 @@ Somerset Maugham
 Vivek Ramaswamy
 Vivek Ganapathy Ramaswamy
 Vivek G. Ramaswamy
+Ramaswamy
 John Frieda
 Williams Sonoma
 Williams-Sonoma
@@ -7900,6 +7909,7 @@ Hans Hahn
 Oskar Morgenstern
 Friedrich Hayek
 Friedrich A. Hayek
+Friedrich August von Hayek
 Emacs
 Typst
 Le Grand Robert
@@ -9514,6 +9524,7 @@ Ciara
 Claude Chabrol
 Claudia Cardinale
 Colette
+Sidonie-Gabrielle Colette
 Count Basie
 Dakota Fanning
 Dannii Minogue
@@ -10284,6 +10295,7 @@ Thomas Bernhard
 Alfred Kubin
 Hermann Bahr
 Hugo von Hofmannsthal
+Hofmannsthal
 Stefan Zweig
 Arthur Schnitzler
 Joseph Roth
@@ -11100,6 +11112,7 @@ Zbigniew Herbert
 Georg Forster
 José Saramago
 Fernando Pessoa
+Fernando Pessa
 Amerigo Vespucci
 Dante Alighieri
 Giovanni Boccaccio
@@ -11554,6 +11567,8 @@ Joan Rivers
 Joe Haldeman
 John Ashbery
 John C. Calhoun
+John Caldwell Calhoun
+John Calhoun
 John Cage
 John Dos Passos
 John Green
@@ -11694,6 +11709,7 @@ Elie Wiesel
 Mircea Eliade
 Nassim Nicholas Taleb
 N. N. Taleb
+Nassim Taleb
 Klaus Mann
 Benoît Mandelbrot
 Benoît B. Mandelbrot
@@ -12121,6 +12137,7 @@ Subaru WRX STI
 Subaru BRZ
 Robert Heinlein
 Robert Anson Heinlein
+Starship
 Starship Troopers
 Killah Priest
 Ryan Blaney
@@ -12185,6 +12202,14 @@ Bosch Professional
 Michelle Hunziger
 William Ruto
 Herbert Kickl
+Bloc Québécois
+Green Berets
+Path of Exile
+Banda Aceh
+Yves-François Blanchet
+Kristrún Mjöll Frostadóttir
+Kristrún Frostadóttir
+Frostadóttir
 Suella Braverman
 Grey Goose
 Bedford County
@@ -12799,6 +12824,7 @@ Arcangelo Corelli
 Giacomo Carissimi
 Giovanni Battista Pergolesi
 Giovanni da Palestrina
+Giovanni Pierluigi da Palestrina
 Gregorio Allegri
 Girolamo Frescobaldi
 Faye Wong
@@ -13283,7 +13309,10 @@ Andrew Jackson
 James Buchanan
 Andrew Johnson
 William McKinley
+McKinley
+Mount McKinley
 Aaron Burr
+DeepSeek
 George Clinton
 Elbridge Gerry
 Daniel D. Tompkins
@@ -15842,6 +15871,11 @@ Petr Pavel
 Jennifer Hermoso
 Jenni Hermoso
 # START SCIENTIFIC NAMES
+Elaeagnus angustifolia
+Corvus spp
+Proteus spp
+Bombina spp
+Garrya spp
 Abrus precatorius
 Acacia baileyana
 Acacia cyanophylla
@@ -18002,6 +18036,7 @@ Roselyne Bachelot
 Michel Barnier
 François Baroin
 François Bayrou
+Bayrou
 Xavier Bertrand
 Olivier Besancenot
 Éric Besson
@@ -18488,6 +18523,7 @@ Jaime Mayor Oreja
 Constantino Méndez
 Ínigo Méndez de Vigo
 Willy Meyer
+Willi Meier
 José María Michavila
 José Manuel Miñones
 César Antonio Molina
@@ -18522,6 +18558,7 @@ Rodrigo Rato
 Ana Redondo
 Sira Rego
 Teresa Ribera
+Teresa Ribera Rodríguez
 Elvira Rodríguez
 Isabel Rodríguez
 Juan Carlos Rodríguez Ibarra
@@ -18810,6 +18847,7 @@ Frances Fitzgerald
 Joan Freeman
 Seán Gallagher
 Michael Higgins
+Michael D. Higgins
 Enda Kenny
 Mary McAleese
 Liadh Ní Riada
@@ -19940,6 +19978,7 @@ Robert J. Shiller
 Robert Aumann
 Robert Shiller
 Robert Lucas
+Robert E. Lucas
 Robert Mundell
 Robert Solow
 Roger Myerson
@@ -20208,6 +20247,7 @@ Abdus Salam
 Adam G. Riess
 Adam Guy Riess
 Adam Riess
+Adam Ries
 Alain Aspect
 Albert A. Michelson
 Albert Fert
@@ -20722,6 +20762,7 @@ John Graham
 John Hart
 John Kao
 John Kerr
+John Ker
 John Landon
 John Leckie
 John Mallas
@@ -20886,6 +20927,7 @@ Allan Kardec
 Salomon Reinach
 City Football Group
 City Group
+CIT Group
 Abu Dhabi United Group
 Quique Cárcel
 Mumbai City
@@ -21173,7 +21215,7 @@ Nikola Mirotić
 Nando de Colo
 Vassilis Spanoulis
 Sergio Rodríguez
-Andrei Kirilinko
+Andrei Kirilenko
 Juan Carlos Navarro
 Anthony Parker
 Šarūnas Jasikevičius
@@ -23449,6 +23491,8 @@ Leonard Slatkin
 Christoph von Dohnányi
 Ram Dass
 Baba Ram Dass
+Guru Ram Das
+Ram Das
 Theodor Escherich
 Max Newman
 Josep Maria Terricabras
@@ -26246,6 +26290,15 @@ Kelly Ortberg
 John Legere
 John J. Legere
 Democratic National Convention
+Susie Wiles
+Sherman Oaks
+Van Nuys
+Darren Jones
+Tom Homan
+Lamborghini Trattori
+Automobili Lamborghini
+Antoine Armand
+Jörg Kukies
 Port Grimaud
 La Défense Arena
 Guillaume Gillet
@@ -26689,11 +26742,14 @@ Mrs. Dalloway
 Mrs Dalloway
 Grant Dalton
 Gisèle Pelicot
+Dominique Pelicot
+Pelicot
 Museum Ostwall
 Museum am Ostwall
 Mikal Bridges
 Cam Thomas
 Cameron Thomas
+Jeju Air
 Rudy Fernández
 Rudy Fernandez
 Turkish Aerospace Industries
@@ -26702,11 +26758,23 @@ Brandeis University
 Thomas Chatterton Williams
 Thomas Chatterton
 Carl Boese
-Série A
+#Série A
 Campeonato Brasileiro Série A
 Brasileirão Série A
 Le Méridien
 Albert Heijn
+Vicky Leandros
+Scout Motors
+Navajo Nation
+Gideon Saar
+Gideon Sa'ar
+Mothman
+Youri Mulder
+Democratic National Committee
+Rémy Cointreau
+Las Vegas Sun
+Sunshine State
+Skunk Works
 Tiff Macklem
 Frank Ramsey
 Frank P. Ramsey
@@ -26721,7 +26789,33 @@ Louise Farrenc
 Esther Koplowitz
 Alicia Koplowitz
 Roshel Senator
+Michael Waltz
+Mike Waltz
+Pete Hegseth
+Hegseth
+Omar Marmoush
 Greg Kinnear
+John Thune
+Chris Wright
+Joint Chiefs of Staff
+Opel Astra Electric
+Opel Corsa Electric
+Vauxhall Astra Electric
+Vauxhall Corsa Electric
+Acqua Panna
+Mini Cooper E
+MINI Cooper E
+WPA2
+Speedometer
+Suzuki Vitara
+Suzuki E-Vitara
+Iris Plus Graphics
+Fabian Hürzeler
+Howard Lutnick
+Scott Bessent
+Lucid Air
+Sean Duffy
+Marc Rowan
 Eliot Ness
 Nicholas Negroponte
 London Sinfonietta
@@ -26733,5 +26827,617 @@ Renée Fregosi
 Michel Onfray
 Pascal Bruckner
 Céline Pina
-Skunk Works
 Kai-Fu Lee
+Lionel Trilling
+Saben Lee
+Gutierre de Cetina
+Elisa Mouliaá
+Jill Stein
+Robert Kennedy Jr.
+Nissan Patrol
+Olivier Blanchard
+Herculine Barbin
+Grok
+Kémi Séba
+Frederick Jackson Turner
+Kepa Junkera
+John Ratcliffe
+James Blair
+Taylor Budowich
+Stephen Miller
+Dan Scavino
+Thomas Homan
+Bill McGinley
+Linda McMahon
+Timothée Chalamet
+Bari Weiss
+Witold Pilecki
+Bernhard Riemann
+Georg Friedrich Bernhard Riemann
+Christian Goldbach
+John Charles Fields
+Academy of Saint Martin in the Fields
+Academy of St Martin in the Fields
+Harold Hamm
+Joe Lonsdale
+Winklevoss
+Howard Winklevoss
+Cameron Winklevoss
+Tyler Winklevoss
+Dylan Mulvaney
+Culiacán Rosales
+Via Monte Napoleone
+Via Montenapoleone
+New Bond Street
+Bond Street
+Young Boys Bern
+Sturm Graz
+Ko Lanta
+Koh Lanta
+Toyota Sienna
+SK Sturm Graz
+Tim Höttges
+Timotheus Höttges
+Sampo Oyj
+Stanisław Jerzy Lec
+Nanga Parbat
+Spirit Airlines
+Alexandre Kojève
+Sito Miñanco
+John Candy
+Maniac Mansion
+Wolfgang Kaleck
+Sara Aagesen
+Henna Virkkunen
+Roxana Mînzatu
+Marta Kos
+Jozef Síkela
+Costas Kadis
+Maria Luís Albuquerque
+Hadja Lahbib
+Jessika Roswall
+Piotr Serafin
+Magnus Brunner
+Dan Jørgensen
+Ekaterina Zaharieva
+Michael McGrath
+Apostolos Tzitzikostas
+Christophe Hansen
+Glenn Micallef
+Pam Bondi
+Oxford Circus
+Oxford Street
+Vinci Autoroutes
+VINCI Autoroutes
+Jardine Matheson
+Dagens Nyheter
+Opel Grandland
+Vauxhall Grandland
+Ko Samui
+Koh Samui
+Fox & Friends
+Fox and Friends
+Royal Dutch Airlines
+Paul Atkins
+Qeshm Air
+Santiago Posteguillo
+Portia de Rossi
+Giacomo della Porta
+Arnau de Vilanova
+Lorenzo Valla
+Jean-Yves Boriaud
+Otto Guevara
+Eli Wiesel
+Eliezer Wiesel
+Witold Gombrowicz
+Cornelius Vanderbilt
+Anne Sexton
+Jim Rogers
+Russell Vought
+Russy Vought
+Russ Vought
+Alexandra Elbakyan
+Robert Rubin
+Ronan Farrow
+Dale Carnegie
+Masaaki Suzuki
+Stade Brestois
+Cecilia Bartoli
+Joyce DiDonato
+Murray Perahia
+Luigi Mangione
+Gukesh Dommaraju
+Spotify Wrapped
+Albert Park
+Gout Gout
+Lang Lang
+Jascha Heifetz
+Francesco Mutti
+Monster Beverage
+Masayoshi Son
+Kriti Sanon
+Yehudi Menuhin
+Takács Quartet
+Beaux Arts Trio
+Vladimir Ashkenazy
+Emil Gilels
+Arturo Benedetti Michelangeli
+Grigory Sokolov
+Jean-Pierre Rampal
+Angela Gheorghiu
+Janet Baker
+Martha Argerich
+David Oistrakh
+Maurice André
+Julian Bream
+James Galway
+Steven Isserlis
+Albrecht Mayer
+Alban Berg Quartet
+Amadeus Quartet
+The King’s Singers
+The King's Singers
+Tallis Scholars
+James Longstreet
+Ernesto Halffter
+Lars Vogt
+al-Bashir
+Al Bashir
+Dassault Falcon
+Thomas Kinkade
+Kash Patel
+Paul Bocuse
+Luke Wilson
+Maya Rudolph
+Dax Shepard
+Andrew Wilson
+Brad Jordan
+Yoon Suk-yeol
+Bruce Liu
+Parker Bowles
+Camilla Parker Bowles
+Camilla Parker
+Piazza del Popolo
+Hornbostel-Sachs
+Sachs-Hornbostel
+Michael J. Sandel
+Michael Sandel
+Cavaillé-Coll
+Toyota Hilux
+Roy Cohn
+Olivier Latry
+Vincent Dubois
+Thierry Escaich
+Thibault Fajoles
+Pierre Cochereau
+Vince Guaraldi
+Patrick J. Deneen
+Patrick Deneen
+David Brooks
+Brian Thompson
+Mariame Kaba
+Bhaskar Sunkara
+Isak Andic
+Isak Andic Ermay
+William Gilbert
+William Harvey
+Arthur Eddington
+Johan Huizinga
+Warner Classics
+Jean-Philippe Tanguy
+Manuel Bompard
+William Bolcom
+Paula Badosa
+Martin Rees
+Candace Owens
+Louis Langrée
+Alexandre Tharaud
+Markus Poschner
+Philipp von Steinaecker
+Michael Che
+Allan Pettersson
+Jan Novák
+Sergiu Comissiona
+Andrew Huberman
+BBC Symphony Orchestra
+Philharmonia Orchestra
+Docusign
+Banco BPM
+Pacific Palisades
+Hans Egede
+EMI Music
+EMI Group
+Sony BMG Music Entertainment
+Darth Sidious
+Palpatine
+Sheev Palpatine
+Julien Tiersot
+Stephen Cohen
+Steve Cohen
+Leland Stanford
+Amasa Leland Stanford
+Hanna-Barbera
+Hanna-Barbera Cartoons
+Hanna-Barbera Productions
+Hermann von Helmholtz
+Northrop Frye
+Park Chung-hee
+Manmohan Singh
+Tommy Robinson
+Jean-François Dandrieu
+Brian Ferneyhough
+Pierre Poilievre
+Holden Caulfield
+Benvenuto Cellini
+Hornbach
+Cadillac Lyriq
+Mondelēz
+Tonhalle-Orchester
+Théâtre des Champs-Élysées
+Giovanni Battista Guadagnini
+G. B. Guadagnini
+Guadagnini Giambattista
+Madison Grant
+Newcastle United
+Newcastle United Football Club
+Jamal Khashoggi
+Manuel Elkin Patarroyo
+Jack Doohan
+Edmundo González Urrutia
+Edmundo González
+María Corina Machado
+Michael Dobbs
+Hollywood Symphony Orchestra
+William Christie
+Les Arts Florissants
+Gipsy Kings
+Pascal Comelade
+Bartolomeo Cristofori
+Bösendorfer
+Ignaz Bösendorfer
+James T. Kirk
+Compagnie Financière Richemont
+Cie Financière Richemont
+Salvatore Ferragamo
+Ferragamo
+Laurent-Perrier
+Eva Lys
+Kepler Cheuvreux
+Taoiseach
+Paul Erdős
+Erdős
+George Szekeres
+Lillian Ross
+Gay Talese
+Jean Stafford
+Hunter S. Thompson
+Janet Malcolm
+Qinwen Zheng
+Sriram Krishnan
+Alexandre Guilmant
+Charles Bordes
+Walter Weller
+Carme Elias
+Brian Clark
+Lee Strasberg
+Ancel Keys
+Javier de Burgos
+Cotton Mather
+Charles Murray
+Michael Shermer
+The London Times
+The Times of London
+Laura Palmer
+Twin Peaks
+Cahiers du cinéma
+Dino De Laurentiis
+Sean Hannity
+Willem-Alexander
+Yomiuri Shimbun
+Ezer Weizman
+Chaim Weizmann
+Haaretz
+Yedioth Aharonoth
+Trybuna Ludu
+Tolnai Népûjság
+Tokyo Shimbun
+Rzeczywistosc
+Rzeczpospolita
+Rudé Právo
+Notre-Dame-de-Bon-Secours
+Notre-Dame de Bon-Secours
+John S. Bell
+John Stewart Bell
+Einstein-Podolsky-Rosen
+Nathan Rosen
+Boris Podolsky
+Dwarkesh Patel
+Gary Gensler
+Nani Roma
+Karin Keller-Sutter
+Keller-Sutter
+Kumbh Mela
+Anders Holch Povlsen
+Holch Povlsen
+Arabella Rose Kushner
+Arabella Kushner
+Arabella Rose
+Caroline Kennedy
+American Water Works
+Reagan National Airport
+Ronald Reagan National Airport
+Ronald Reagan Washington National Airport
+CoreWeave
+Banca Monte dei Paschi
+Monte dei Paschi
+Banca Monte dei Paschi di Siena
+Tataloo
+Amir Tataloo
+Cristóbal de Morales
+Maurice Rosenthal
+Hans Swarowsky
+P. T. Barnum
+Mobutu Sese Seko
+Rick Rubin
+Joe Boyd
+Srinivasa Ramanujan
+Ramanujan
+Rick Deckard
+Vernon Lee
+Karoline Leavitt
+Violet Paget
+Ibn Battuta
+Craig Calhoun
+Nicolas Berggruen
+Liang Wenfeng
+High-Flyer
+Claude Vivier
+Miloš Vučević
+Reinbert de Leeuw
+Tanglewood
+Jacquie O'Sullivan
+Jacquie O’Sullivan
+Sant Vicent del Raspeig
+Cris Carter
+Takumi Saitō
+Takumi Saitoh
+Dictionnaire de la langue française
+Mary Jane
+George Barris
+George Storrs
+Thomas C. Kinkaid
+Thomas Kinkaid
+Michael Davitt
+Michael Gannon
+Gerry Cooney
+Philippe Pinel
+Reinhard Scheer
+Rudolf Höss
+Tim Dunigan
+Nikolaos Roussen
+Erina Mano
+Tim Wilkison
+Teresa Mak
+Tim Farriss
+El Toro
+Robert Latta
+Russel Crouse
+Sean McGinty
+Steven Rudich
+Paul Murdin
+Peter Seibel
+Peter Leithart
+Rob Portman
+Giovanni Belzoni
+Johann Hermann Schein
+Joe Budden
+Robert Ayres
+Michael Saylor
+Michael J. Saylor
+Paul Bartel
+Joan Mellen
+Ken Keyes Jr.
+Manuel Robles
+Mohammad Hatta
+Ken Keyes
+Mark Mulder
+Johan Borgen
+Martin Bucer
+Mario Minniti
+John Harvard
+Michael Hearne
+Julius Scheiner
+John Henton
+John LaPorta
+Mark Rolston
+Luciano Martino
+Mark Shulman
+Eugène Grasset
+Loyola Marymount University
+Daimler-Benz
+Johan Wilcke
+John Milius
+John Millar
+José Sarria
+John Martino
+John Verran
+John Gofman
+John Gregson
+John Debney
+John Bowe
+John Burnet
+John Ciardi
+John Miceli
+John Boozman
+John Bagley
+Kimbell Art Museum
+Louis Auguste Blanqui
+Ashcan School
+Ash Can School
+Alvin Ailey American Dance Theater
+Royal Ascot
+Ascot Racecourse
+Anouar Abdel-Malek
+May Welland
+Portman Square
+Ashmolean Museum
+Ange-Jacques Gabriel
+Jean-Jacques Grandville
+France libre
+Francisco de Sandoval y Rojas
+Missa brevis
+missa brevis
+Gannon University
+Medina Sidonia
+Medina-Sidonia
+Lindemann-Weierstrass
+Lindemann-Weierstraß
+Hermite-Lindemann
+Robert Bellarmine
+Bellarmine University
+Bellarmine College
+Hispano Olivetti
+The Aquatones
+Rylands Library
+John Rylands
+The Wiz
+Atigun Pass
+Art Omi
+Ledig House
+Diels-Alder
+Paul Durand-Ruel
+Durand-Ruel
+Anna Alma-Tadema
+Alma-Tadema
+Charles-Auguste Bontemps
+Académie des Inscriptions et Belles-lettres
+Battle Royale
+Ivanhoe
+Alan Pardew
+Albert Ammons
+Andreas Schlüter
+Andrew Carnie
+Anne Egerman
+Arthur Moeller van den Bruck
+Arthur Moeller
+Bill Anders
+William Anders
+Bill Conti
+William Conti
+Bill Paxon
+Bobby Campo
+Brian Capron
+Carlos Monzón
+Charles Meryon
+Chen Yun
+Chris Marcil
+Sam Johnson
+Bernard Lewis
+Gareth Jones
+Garett Jones
+Garrett Jones
+Wilhelm Hofmeister
+Pierre Bulliard
+Jean-Baptiste François Bulliard
+Boletus edulis
+Boletus reticulatus
+Boletus aestivalis
+B. edulis
+B. reticulatus
+B. aestivalis
+John Holland
+Cato Institute
+Matt Yglesias
+Chappell Roan
+Cynthia Erivo
+Lainey Wilson
+Jean-Efflam Bavouzet
+Carlos Marqués-Marcet
+Janssen Pharmaceutica
+Andreas Schlütter
+John Howe
+Chen Kun
+Franck Libert
+William Conway
+Reynald Secher
+Nicolas Troussel
+Smoot-Hawley
+MIT Press
+Punxsutawney Phil
+Punxsutawney
+Atul Gawande
+à la guerre comme à la guerre
+À la guerre comme à la guerre
+Christophe Ruggia
+Helge Ingstad
+James Lindsay
+James A. Lindsay
+Scott Adams
+Curtis Yarvin
+John Marzano
+Jim Walton
+Alice Walton
+Julia Koch
+Julia Flesher Koch
+Thomas Peterffy
+Zhong Shanshan
+Jeff Yass
+Tadashi Yanai
+Lukas Walton
+Len Blavatnik
+Jacqueline Mars
+Colin Huang
+Shiv Nadar
+Robin Zeng
+Klaus-Michael Kühne
+Shapoor Mistry
+Miriam Adelson
+Israel Katz
+Joseph P. Overton
+Joseph Ducreux
+Hans Makart
+Jordan Belfort
+Jordan Ross Belfort
+Arthur Gordon Pym
+Gordon Bennett
+James Gordon
+Jim Gordon
+Sami Naïr
+Nick Land
+USAID
+DOGE
+Mort Sahl
+Greg Beato
+Brooke Rollins
+Kelly Loeffler
+John Lowe
+Kayla Mueller
+Kayla Jean Mueller
+John Barclay
+John Barkley Rosser
+John Barkley
+John Bennet
+John Delaney
+John K. Delaney
+John Kevin Delaney
+Andrea Caroni
+Sir George Stokes
+George Stokes
+George Gabriel Stokes
+Philipp Poisel
+Andries Jonker
+Mariane Pearl
+Moïse Tshombe
+Mare Nostrum
+Ermonela Jaho
+Gary Palmer
+Sacré-Cœur
+Marc Fogel
+Île de la Cité
+île de la Cité
+Île-de-France
+Pussy Riot
+Austan Goolsbee
+Keith Kellogg
+Georges Eugène Haussmann
+Matt Garman
