@@ -67,7 +67,7 @@ else
   if grep -q -e "languagetool-language-modules/de/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/de,$PROJECTS"; fi
   if grep -q -e "languagetool-language-modules/el/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/el,$PROJECTS"; fi
   if grep -q -e "languagetool-language-modules/en/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/en,$PROJECTS"; fi
-  if grep -q -e "languagetool-language-modules/eo/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/eo,$PROJECTS"; fi
+  if grep -q -e "languagetool-language-modules/zu/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/zu,$PROJECTS"; fi
   if grep -q -e "languagetool-language-modules/es/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/es,$PROJECTS"; fi
   if grep -q -e "languagetool-language-modules/fa/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/fa,$PROJECTS"; fi
   if grep -q -e "languagetool-language-modules/fr/.*" /home/circleci/git_diffs.txt; then PROJECTS="languagetool-language-modules/fr,$PROJECTS"; fi

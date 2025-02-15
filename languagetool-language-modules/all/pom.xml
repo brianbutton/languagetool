@@ -46,10 +46,6 @@
         </dependency>
         <dependency>
             <groupId>org.languagetool</groupId>
-            <artifactId>language-zu</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.languagetool</groupId>
             <artifactId>language-ast</artifactId>
         </dependency>
         <dependency>
@@ -86,7 +82,7 @@
         </dependency>
         <dependency>
             <groupId>org.languagetool</groupId>
-            <artifactId>language-eo</artifactId>
+            <artifactId>language-zu</artifactId>
         </dependency>
         <dependency>
             <groupId>org.languagetool</groupId>

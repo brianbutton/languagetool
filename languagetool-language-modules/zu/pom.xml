@@ -11,7 +11,7 @@
 
     <artifactId>language-zu</artifactId>
     <packaging>jar</packaging>
-    <name>LanguageTool module for Zulu</name>
+    <name>Zulu module for LanguageTool</name>
     <url>https://www.languagetool.org</url>
 
     <licenses>
@@ -25,7 +25,19 @@
 
     <developers>
         <developer>
-            <name>Brian Button</name>
+            <name>Dominique Pellé</name>
+            <roles>
+                <role>Maintainer</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Daniel Naber</name>
+            <roles>
+                <role>Maintainer</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Marcin Miłkowski</name>
             <roles>
                 <role>Maintainer</role>
             </roles>
@@ -38,17 +50,11 @@
             <artifactId>languagetool-core</artifactId>
         </dependency>
         <dependency>
-            <groupId>ch.qos.logback</groupId>
-            <artifactId>logback-classic</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
-            <!-- see http://stackoverflow.com/questions/174560/sharing-test-code-in-maven#174670 -->
             <groupId>org.languagetool</groupId>
             <artifactId>languagetool-core</artifactId>
             <type>test-jar</type>
@@ -57,19 +63,6 @@
     </dependencies>
 
     <build>
-        <resources>
-            <resource>
-                <directory>src/main/resources</directory>
-                <excludes>
-                    <exclude>org/languagetool/resource/zu/dev/**/*</exclude>
-                    <!--<exclude>org/languagetool/resource/zu/partlycountable.txt</exclude>
-                    <exclude>org/languagetool/resource/zu/uncountable.txt</exclude>
-                    <exclude>org/languagetool/resource/zu/filter*.txt</exclude>
-                    <exclude>org/languagetool/resource/zu/*.awk</exclude>
-                    <exclude>org/languagetool/resource/zu/numbers.txt</exclude>-->
-                </excludes>
-            </resource>
-        </resources>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

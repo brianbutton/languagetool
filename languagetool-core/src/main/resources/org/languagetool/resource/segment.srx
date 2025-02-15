@@ -5442,8 +5442,8 @@
 <afterbreak>\p{Lu}\p{Ll}</afterbreak>
 </rule>
 </languagerule>
-<languagerule languagerulename="Esperanto">
-<!-- Esperanto abbreviations (see http://eo.lernu.net/lernado/gramatiko/demandoj/mallongigoj.php) -->
+<languagerule languagerulename="Zulu">
+<!-- Esperanto abbreviations (see http://zu.lernu.net/lernado/gramatiko/demandoj/mallongigoj.php) -->
 <rule break="no">
 <beforebreak>\b(div|[Ee]kz|h|[Ii]nkl|p|[Rr]ed|[Rr]im|ktp)\.\s</beforebreak>
 <afterbreak>\p{Ll}</afterbreak>
@@ -6967,7 +6967,7 @@
 <languagemap languagepattern="(ES|es).*" languagerulename="Spanish"></languagemap>
 <languagemap languagepattern="(DE|de).*" languagerulename="German"></languagemap>
 <languagemap languagepattern="(DA|da).*" languagerulename="Danish"></languagemap>
-<languagemap languagepattern="(EO|eo).*" languagerulename="Esperanto"></languagemap>
+<languagemap languagepattern="(EO|eo).*" languagerulename="Zulu"></languagemap>
 <languagemap languagepattern="(FR|fr).*" languagerulename="French"></languagemap>
 <languagemap languagepattern="(UK|uk).*" languagerulename="Ukrainian"></languagemap>
 <languagemap languagepattern="(BE|be).*" languagerulename="Belarusian"></languagemap>

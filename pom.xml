@@ -48,7 +48,7 @@
         <module>languagetool-language-modules/be</module>
         <module>languagetool-language-modules/zh</module>
         <module>languagetool-language-modules/da</module>
-        <module>languagetool-language-modules/eo</module>
+        <module>languagetool-language-modules/zu</module>
         <module>languagetool-language-modules/gl</module>
         <module>languagetool-language-modules/el</module>
         <module>languagetool-language-modules/is</module>
@@ -66,7 +66,6 @@
         <module>languagetool-language-modules/tl</module>
         <module>languagetool-language-modules/uk</module>
         <module>languagetool-language-modules/crh</module>
-        <module>languagetool-language-modules/zu</module>
         <module>languagetool-language-modules/de-DE-x-simple-language</module>
         <module>languagetool-language-modules/ga</module>
         <module>languagetool-language-modules/all</module>
@@ -796,11 +795,6 @@
             </dependency>
             <dependency>
                 <groupId>org.languagetool</groupId>
-                <artifactId>language-zu</artifactId>
-                <version>${revision}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.languagetool</groupId>
                 <artifactId>language-el</artifactId>
                 <version>${revision}</version>
             </dependency>
@@ -811,7 +805,7 @@
             </dependency>
             <dependency>
                 <groupId>org.languagetool</groupId>
-                <artifactId>language-eo</artifactId>
+                <artifactId>language-zu</artifactId>
                 <version>${revision}</version>
             </dependency>
             <dependency>

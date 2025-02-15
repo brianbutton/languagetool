@@ -252,7 +252,7 @@ public class DefaultLanguageIdentifierTest extends LanguageIdentifierTest{
     langAssert("uk", "Лі́нукс — загальна назва UNIX-подібних операційних систем на основі однойменного ядра.", identifier);
     langAssert("km", "អ្នក\u200Bអាច\u200Bជួយ\u200Bលើក\u200Bស្ទួយ\u200Bវិគីភីឌាភាសាខ្មែរ\u200Bនេះ\u200Bឱ្យ\u200Bមាន\u200Bលក្ខណៈ", identifier);
     // not yet in language-detector 0.5:
-    langAssert("eo", "Imperiestraj pingvenoj manĝas ĉefe krustacojn kaj malgrandajn ...", identifier);
+    langAssert("zu", "Imperiestraj pingvenoj manĝas ĉefe krustacojn kaj malgrandajn ...", identifier);
     // detected as not supported by the unicode characters used:
     langAssert("zz", "ลินุกซ์ (อังกฤษ: Linux)", identifier);  // Thai
     langAssert("zz", "यूएसबी (अंग्रेज़ी: Live ...)", identifier);  // Hindi

@@ -54,7 +54,7 @@ public class MultiThreadingTest1 {
     examples.put("zh-CN", "将文本粘贴在此，或者检测以下文本：我和她去看了二部电影。");
     examples.put("da-DK", "Indsæt din egen tekst her , eller brug denne tekst til at se nogle af de fejl LanguageTool fanger. vær opmærksom på at den langtfra er er perfect, men skal være en hjælp til at få standartfejl frem i lyset.");
     examples.put("nl", "Een ieder kan fouten maken, tikvouten bij voorbeeld.");
-    examples.put("eo", "Alglui vian kontrolendan tekston ĉi tie... Aŭ nur kontrolu tiun ekzemplon. Ĉu vi vi rimarkis, ke estas gramatikaj eraro en tiu frazo? Rimarku, ke Lingvoilo ankaux atentigas pri literumaj erraroj kiel ĉi-tiu.");
+    examples.put("zu", "Alglui vian kontrolendan tekston ĉi tie... Aŭ nur kontrolu tiun ekzemplon. Ĉu vi vi rimarkis, ke estas gramatikaj eraro en tiu frazo? Rimarku, ke Lingvoilo ankaux atentigas pri literumaj erraroj kiel ĉi-tiu.");
     examples.put("fr", "Copiez votre texte ici ou vérifiez cet exemple contenant plusieurs erreur que LanguageTool doit doit pouvoir detecter.");
     examples.put("gl-ES", "Esta vai a ser unha mostra de de exemplo para amosar o funcionamento de LanguageTool.");
     examples.put("is-IS", "Þetta er dæmi um texta sem á að sína farm á hvernig LanguageTool virkar. Það er þó hérmeð gert ljóst að forritið framkvæmir ekki hefðbundna ritvilluleit.");

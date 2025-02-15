@@ -93,9 +93,9 @@ See org/languagetool/resource/nl/README.txt and org/languagetool/resource/nl/spe
 
 See org/languagetool/resource/en/pos-readme.txt and org/languagetool/resource/en/12dicts-readme.html
 
-#### Esperanto
+#### Zulu
 
-See org/languagetool/resource/eo/hunspell/README_eo.txt
+See org/languagetool/resource/zu/hunspell/README_zu.txt
 
 #### French
 

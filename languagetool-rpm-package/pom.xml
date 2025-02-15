@@ -287,13 +287,13 @@
                                     </file>
                                     <ruleset>default-ruleset</ruleset>
                                 </entry>
-                                <!-- Esperanto (eo) -->
+                                <!-- Zulu (zu) -->
                                 <entry>
                                     <name>
                                         /usr/share/java/${parent.project.name}-${project.version}/${language.name}-eo.jar
                                     </name>
                                     <file>
-                                        ../${parent.project.name}-language-modules/eo/target/${language.name}-eo-${project.version}.jar
+                                        ../${parent.project.name}-language-modules/zu/target/${language.name}-eo-${project.version}.jar
                                     </file>
                                     <ruleset>default-ruleset</ruleset>
                                 </entry>
